@@ -1,0 +1,12 @@
+defect_code,defect_description,n_nc,cost_eur,share_pct,cumulative_pct
+D01,Connector crimp defect,123,173590.85,26.4,26.4
+D02,Dimensional out of tolerance,115,141714.9,21.6,47.9
+D04,Seal leak at pressure test,55,99747.66,15.2,63.1
+D03,Solder joint defect,123,85554.41,13.0,76.1
+D09,Incoming material out of spec,63,69483.37,10.6,86.7
+D05,Wrong or missing label,101,24666.96,3.8,90.4
+D08,Firmware version mismatch,42,19486.14,3.0,93.4
+D10,Packaging damage in transit,46,15995.96,2.4,95.8
+D06,Device history record incomplete,81,10198.52,1.6,97.4
+D11,Test fixture calibration overdue,29,9776.04,1.5,98.9
+D07,Cosmetic scratch,76,7367.23,1.1,100.0

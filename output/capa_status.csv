@@ -1,0 +1,177 @@
+capa_id,nc_id,severity,root_cause_category,opened_date,opened_year,due_date,closed_date,state,days_to_close,timeliness,age_days,effective
+CAPA-0001,NC-00005,Major,Machine / equipment,2024-01-04,2024,2024-03-04,2024-02-21,Closed,48.0,Closed on time,727,Yes
+CAPA-0002,NC-00008,Critical,Material / supplier,2024-01-04,2024,2024-02-03,2024-02-20,Closed,47.0,Closed late,727,Yes
+CAPA-0003,NC-00002,Major,Procedure / method,2024-01-07,2024,2024-03-07,2024-03-05,Closed,58.0,Closed on time,724,Yes
+CAPA-0004,NC-00003,Critical,Training / human error,2024-01-07,2024,2024-02-06,2024-03-27,Closed,80.0,Closed late,724,Yes
+CAPA-0005,NC-00012,Major,Training / human error,2024-01-13,2024,2024-03-13,2024-02-06,Closed,24.0,Closed on time,718,No
+CAPA-0006,NC-00029,Major,Procedure / method,2024-01-21,2024,2024-03-21,2024-02-04,Closed,14.0,Closed on time,710,Yes
+CAPA-0007,NC-00047,Critical,Material / supplier,2024-02-09,2024,2024-03-10,2024-03-17,Closed,37.0,Closed late,691,Yes
+CAPA-0008,NC-00050,Major,Training / human error,2024-02-17,2024,2024-04-17,2024-03-25,Closed,37.0,Closed on time,683,No
+CAPA-0009,NC-00056,Major,Training / human error,2024-02-25,2024,2024-04-25,2024-03-11,Closed,15.0,Closed on time,675,Yes
+CAPA-0010,NC-00065,Major,Machine / equipment,2024-03-01,2024,2024-04-30,2024-04-17,Closed,47.0,Closed on time,670,Yes
+CAPA-0011,NC-00069,Major,Material / supplier,2024-03-05,2024,2024-05-04,2024-05-31,Closed,87.0,Closed late,666,Yes
+CAPA-0012,NC-00072,Major,Training / human error,2024-03-09,2024,2024-05-08,2024-05-01,Closed,53.0,Closed on time,662,Yes
+CAPA-0013,NC-00076,Minor,Training / human error,2024-03-14,2024,2024-05-13,2024-03-30,Closed,16.0,Closed on time,657,Yes
+CAPA-0014,NC-00078,Minor,Training / human error,2024-03-17,2024,2024-05-16,2024-06-18,Closed,93.0,Closed late,654,No
+CAPA-0015,NC-00083,Critical,Material / supplier,2024-03-19,2024,2024-04-18,2024-05-07,Closed,49.0,Closed late,652,Yes
+CAPA-0016,NC-00085,Major,Material / supplier,2024-03-28,2024,2024-05-27,2024-05-05,Closed,38.0,Closed on time,643,Yes
+CAPA-0017,NC-00095,Critical,Material / supplier,2024-03-29,2024,2024-04-28,2024-05-08,Closed,40.0,Closed late,642,Yes
+CAPA-0018,NC-00093,Major,Training / human error,2024-04-02,2024,2024-06-01,2024-06-27,Closed,86.0,Closed late,638,No
+CAPA-0019,NC-00113,Major,Machine / equipment,2024-04-20,2024,2024-06-19,2024-06-04,Closed,45.0,Closed on time,620,No
+CAPA-0020,NC-00120,Major,Machine / equipment,2024-04-26,2024,2024-06-25,2024-07-19,Closed,84.0,Closed late,614,Yes
+CAPA-0021,NC-00124,Major,Machine / equipment,2024-04-28,2024,2024-06-27,2024-06-20,Closed,53.0,Closed on time,612,Yes
+CAPA-0022,NC-00127,Major,Material / supplier,2024-04-30,2024,2024-06-29,2024-06-29,Closed,60.0,Closed on time,610,No
+CAPA-0023,NC-00128,Major,Procedure / method,2024-05-03,2024,2024-07-02,2024-09-08,Closed,128.0,Closed late,607,Yes
+CAPA-0024,NC-00129,Minor,Training / human error,2024-05-03,2024,2024-07-02,2024-05-22,Closed,19.0,Closed on time,607,No
+CAPA-0025,NC-00135,Major,Material / supplier,2024-05-06,2024,2024-07-05,2024-07-09,Closed,64.0,Closed late,604,Yes
+CAPA-0026,NC-00136,Major,Procedure / method,2024-05-08,2024,2024-07-07,2024-06-17,Closed,40.0,Closed on time,602,Yes
+CAPA-0027,NC-00140,Major,Material / supplier,2024-05-10,2024,2024-07-09,2024-08-20,Closed,102.0,Closed late,600,Yes
+CAPA-0028,NC-00141,Major,Procedure / method,2024-05-11,2024,2024-07-10,2024-06-26,Closed,46.0,Closed on time,599,Yes
+CAPA-0029,NC-00144,Critical,Procedure / method,2024-05-19,2024,2024-06-18,2024-07-10,Closed,52.0,Closed late,591,No
+CAPA-0030,NC-00149,Critical,Material / supplier,2024-05-21,2024,2024-06-20,2024-09-13,Closed,115.0,Closed late,589,Yes
+CAPA-0031,NC-00151,Major,Material / supplier,2024-05-22,2024,2024-07-21,2024-10-05,Closed,136.0,Closed late,588,Yes
+CAPA-0032,NC-00157,Minor,Material / supplier,2024-05-25,2024,2024-07-24,2024-07-17,Closed,53.0,Closed on time,585,Yes
+CAPA-0033,NC-00156,Minor,Machine / equipment,2024-05-27,2024,2024-07-26,2024-06-20,Closed,24.0,Closed on time,583,Yes
+CAPA-0034,NC-00160,Critical,Procedure / method,2024-05-27,2024,2024-06-26,2024-07-24,Closed,58.0,Closed late,583,Yes
+CAPA-0035,NC-00161,Major,Machine / equipment,2024-06-01,2024,2024-07-31,2024-07-18,Closed,47.0,Closed on time,578,Yes
+CAPA-0036,NC-00166,Major,Machine / equipment,2024-06-01,2024,2024-07-31,2024-09-05,Closed,96.0,Closed late,578,Yes
+CAPA-0037,NC-00165,Major,Procedure / method,2024-06-05,2024,2024-08-04,2024-09-05,Closed,92.0,Closed late,574,Yes
+CAPA-0038,NC-00169,Minor,Training / human error,2024-06-05,2024,2024-08-04,2024-06-30,Closed,25.0,Closed on time,574,Yes
+CAPA-0039,NC-00171,Major,Material / supplier,2024-06-10,2024,2024-08-09,2024-06-29,Closed,19.0,Closed on time,569,No
+CAPA-0040,NC-00175,Critical,Machine / equipment,2024-06-12,2024,2024-07-12,2024-06-30,Closed,18.0,Closed on time,567,Yes
+CAPA-0041,NC-00194,Major,Material / supplier,2024-06-28,2024,2024-08-27,2024-08-05,Closed,38.0,Closed on time,551,Yes
+CAPA-0042,NC-00203,Major,Material / supplier,2024-07-06,2024,2024-09-04,2024-08-06,Closed,31.0,Closed on time,543,Yes
+CAPA-0043,NC-00201,Major,Machine / equipment,2024-07-09,2024,2024-09-07,2024-09-10,Closed,63.0,Closed late,540,Yes
+CAPA-0044,NC-00204,Major,Machine / equipment,2024-07-09,2024,2024-09-07,2024-08-21,Closed,43.0,Closed on time,540,Yes
+CAPA-0045,NC-00222,Major,Material / supplier,2024-07-26,2024,2024-09-24,2024-09-12,Closed,48.0,Closed on time,523,Yes
+CAPA-0046,NC-00225,Major,Machine / equipment,2024-08-02,2024,2024-10-01,2024-09-19,Closed,48.0,Closed on time,516,Yes
+CAPA-0047,NC-00228,Critical,Procedure / method,2024-08-06,2024,2024-09-05,2024-10-04,Closed,59.0,Closed late,512,Yes
+CAPA-0048,NC-00239,Critical,Measurement,2024-08-17,2024,2024-09-16,2024-10-12,Closed,56.0,Closed late,501,Yes
+CAPA-0049,NC-00241,Major,Design,2024-08-17,2024,2024-10-16,2024-11-05,Closed,80.0,Closed late,501,Yes
+CAPA-0050,NC-00253,Major,Machine / equipment,2024-08-22,2024,2024-10-21,2024-10-08,Closed,47.0,Closed on time,496,Yes
+CAPA-0051,NC-00246,Major,Material / supplier,2024-08-24,2024,2024-10-23,2024-10-16,Closed,53.0,Closed on time,494,Yes
+CAPA-0052,NC-00255,Major,Material / supplier,2024-08-25,2024,2024-10-24,2024-10-28,Closed,64.0,Closed late,493,Yes
+CAPA-0053,NC-00268,Critical,Material / supplier,2024-08-29,2024,2024-09-28,2024-10-10,Closed,42.0,Closed late,489,Yes
+CAPA-0054,NC-00259,Major,Material / supplier,2024-08-31,2024,2024-10-30,2024-09-21,Closed,21.0,Closed on time,487,Yes
+CAPA-0055,NC-00265,Major,Material / supplier,2024-09-01,2024,2024-10-31,2024-10-10,Closed,39.0,Closed on time,486,Yes
+CAPA-0056,NC-00276,Critical,Material / supplier,2024-09-08,2024,2024-10-08,2024-10-01,Closed,23.0,Closed on time,479,Yes
+CAPA-0057,NC-00277,Minor,Material / supplier,2024-09-10,2024,2024-11-09,2024-10-08,Closed,28.0,Closed on time,477,Yes
+CAPA-0058,NC-00283,Major,Procedure / method,2024-09-14,2024,2024-11-13,2024-10-31,Closed,47.0,Closed on time,473,Yes
+CAPA-0059,NC-00281,Major,Training / human error,2024-09-16,2024,2024-11-15,2024-10-12,Closed,26.0,Closed on time,471,No
+CAPA-0060,NC-00292,Major,Procedure / method,2024-09-22,2024,2024-11-21,2024-12-22,Closed,91.0,Closed late,465,Yes
+CAPA-0061,NC-00297,Major,Training / human error,2024-09-23,2024,2024-11-22,2024-10-30,Closed,37.0,Closed on time,464,No
+CAPA-0062,NC-00298,Critical,Material / supplier,2024-09-24,2024,2024-10-24,2024-12-09,Closed,76.0,Closed late,463,Yes
+CAPA-0063,NC-00305,Minor,Material / supplier,2024-09-29,2024,2024-11-28,2025-01-03,Closed,96.0,Closed late,458,Yes
+CAPA-0064,NC-00306,Major,Machine / equipment,2024-10-02,2024,2024-12-01,2024-10-22,Closed,20.0,Closed on time,455,Yes
+CAPA-0065,NC-00324,Major,Material / supplier,2024-10-11,2024,2024-12-10,2024-11-08,Closed,28.0,Closed on time,446,Yes
+CAPA-0066,NC-00321,Critical,Procedure / method,2024-10-12,2024,2024-11-11,2024-12-05,Closed,54.0,Closed late,445,Yes
+CAPA-0067,NC-00320,Major,Training / human error,2024-10-13,2024,2024-12-12,2025-01-09,Closed,88.0,Closed late,444,No
+CAPA-0068,NC-00328,Major,Training / human error,2024-10-16,2024,2024-12-15,2024-11-18,Closed,33.0,Closed on time,441,No
+CAPA-0069,NC-00326,Major,Material / supplier,2024-10-17,2024,2024-12-16,2024-11-28,Closed,42.0,Closed on time,440,Yes
+CAPA-0070,NC-00336,Major,Machine / equipment,2024-10-25,2024,2024-12-24,2025-02-03,Closed,101.0,Closed late,432,Yes
+CAPA-0071,NC-00346,Minor,Training / human error,2024-10-26,2024,2024-12-25,2025-01-07,Closed,73.0,Closed late,431,No
+CAPA-0072,NC-00344,Major,Machine / equipment,2024-10-29,2024,2024-12-28,2025-02-01,Closed,95.0,Closed late,428,No
+CAPA-0073,NC-00350,Major,Design,2024-10-31,2024,2024-12-30,2025-01-01,Closed,62.0,Closed late,426,Yes
+CAPA-0074,NC-00360,Major,Training / human error,2024-11-04,2024,2025-01-03,2024-12-21,Closed,47.0,Closed on time,422,Yes
+CAPA-0075,NC-00361,Major,Training / human error,2024-11-04,2024,2025-01-03,2024-11-23,Closed,19.0,Closed on time,422,Yes
+CAPA-0076,NC-00367,Critical,Training / human error,2024-11-14,2024,2024-12-14,2024-12-11,Closed,27.0,Closed on time,412,Yes
+CAPA-0077,NC-00365,Minor,Training / human error,2024-11-16,2024,2025-01-15,2024-12-13,Closed,27.0,Closed on time,410,Yes
+CAPA-0078,NC-00375,Major,Machine / equipment,2024-11-26,2024,2025-01-25,2025-03-25,Closed,119.0,Closed late,400,No
+CAPA-0079,NC-00385,Minor,Training / human error,2024-11-29,2024,2025-01-28,2025-01-02,Closed,34.0,Closed on time,397,Yes
+CAPA-0080,NC-00388,Minor,Material / supplier,2024-12-08,2024,2025-02-06,2024-12-31,Closed,23.0,Closed on time,388,Yes
+CAPA-0081,NC-00394,Major,Training / human error,2024-12-10,2024,2025-02-08,2025-01-04,Closed,25.0,Closed on time,386,Yes
+CAPA-0082,NC-00409,Critical,Procedure / method,2024-12-30,2024,2025-01-29,2025-02-12,Closed,44.0,Closed late,366,Yes
+CAPA-0083,NC-00416,Major,Material / supplier,2025-01-04,2025,2025-03-05,2025-02-24,Closed,51.0,Closed on time,361,No
+CAPA-0084,NC-00421,Major,Training / human error,2025-01-10,2025,2025-03-11,2025-02-16,Closed,37.0,Closed on time,355,No
+CAPA-0085,NC-00424,Major,Procedure / method,2025-01-11,2025,2025-03-12,2025-01-29,Closed,18.0,Closed on time,354,No
+CAPA-0086,NC-00437,Major,Training / human error,2025-01-17,2025,2025-03-18,2025-03-16,Closed,58.0,Closed on time,348,No
+CAPA-0087,NC-00435,Major,Measurement,2025-01-22,2025,2025-03-23,2025-05-07,Closed,105.0,Closed late,343,Yes
+CAPA-0088,NC-00442,Major,Material / supplier,2025-01-23,2025,2025-03-24,2025-03-23,Closed,59.0,Closed on time,342,Yes
+CAPA-0089,NC-00441,Major,Procedure / method,2025-01-24,2025,2025-03-25,2025-03-02,Closed,37.0,Closed on time,341,Yes
+CAPA-0090,NC-00448,Critical,Procedure / method,2025-01-29,2025,2025-02-28,2025-04-04,Closed,65.0,Closed late,336,Yes
+CAPA-0091,NC-00449,Major,Machine / equipment,2025-01-30,2025,2025-03-31,2025-03-02,Closed,31.0,Closed on time,335,Yes
+CAPA-0092,NC-00454,Major,Procedure / method,2025-02-07,2025,2025-04-08,2025-03-25,Closed,46.0,Closed on time,327,Yes
+CAPA-0093,NC-00457,Minor,Procedure / method,2025-02-07,2025,2025-04-08,2025-04-25,Closed,77.0,Closed late,327,Yes
+CAPA-0094,NC-00464,Major,Training / human error,2025-02-12,2025,2025-04-13,2025-04-10,Closed,57.0,Closed on time,322,No
+CAPA-0095,NC-00475,Major,Machine / equipment,2025-02-23,2025,2025-04-24,2025-05-19,Closed,85.0,Closed late,311,Yes
+CAPA-0096,NC-00482,Critical,Material / supplier,2025-02-26,2025,2025-03-28,2025-03-21,Closed,23.0,Closed on time,308,No
+CAPA-0097,NC-00483,Critical,Material / supplier,2025-02-26,2025,2025-03-28,2025-03-16,Closed,18.0,Closed on time,308,Yes
+CAPA-0098,NC-00488,Major,Training / human error,2025-02-27,2025,2025-04-28,2025-04-03,Closed,35.0,Closed on time,307,No
+CAPA-0099,NC-00489,Major,Procedure / method,2025-03-05,2025,2025-05-04,2025-04-14,Closed,40.0,Closed on time,301,Yes
+CAPA-0100,NC-00496,Critical,Material / supplier,2025-03-07,2025,2025-04-06,2025-05-19,Closed,73.0,Closed late,299,Yes
+CAPA-0101,NC-00493,Major,Material / supplier,2025-03-08,2025,2025-05-07,2025-04-26,Closed,49.0,Closed on time,298,Yes
+CAPA-0102,NC-00514,Critical,Procedure / method,2025-03-25,2025,2025-04-24,2025-06-19,Closed,86.0,Closed late,281,Yes
+CAPA-0103,NC-00516,Major,Material / supplier,2025-03-29,2025,2025-05-28,2025-12-09,Closed,255.0,Closed late,277,Pending
+CAPA-0104,NC-00524,Major,Material / supplier,2025-04-01,2025,2025-05-31,2025-07-27,Closed,117.0,Closed late,274,No
+CAPA-0105,NC-00534,Minor,Measurement,2025-04-10,2025,2025-06-09,2025-05-30,Closed,50.0,Closed on time,265,No
+CAPA-0106,NC-00535,Major,Material / supplier,2025-04-13,2025,2025-06-12,2025-05-11,Closed,28.0,Closed on time,262,Yes
+CAPA-0107,NC-00544,Minor,Material / supplier,2025-04-18,2025,2025-06-17,2025-08-07,Closed,111.0,Closed late,257,Yes
+CAPA-0108,NC-00548,Minor,Design,2025-04-20,2025,2025-06-19,2025-06-29,Closed,70.0,Closed late,255,Yes
+CAPA-0109,NC-00550,Major,Material / supplier,2025-04-22,2025,2025-06-21,2025-07-01,Closed,70.0,Closed late,253,Yes
+CAPA-0110,NC-00566,Critical,Procedure / method,2025-05-11,2025,2025-06-10,2025-07-16,Closed,66.0,Closed late,234,Yes
+CAPA-0111,NC-00567,Major,Material / supplier,2025-05-14,2025,2025-07-13,2025-06-25,Closed,42.0,Closed on time,231,Yes
+CAPA-0112,NC-00571,Major,Material / supplier,2025-05-22,2025,2025-07-21,2025-08-31,Closed,101.0,Closed late,223,Yes
+CAPA-0113,NC-00572,Major,Measurement,2025-05-23,2025,2025-07-22,2025-07-25,Closed,63.0,Closed late,222,Yes
+CAPA-0114,NC-00577,Major,Design,2025-05-23,2025,2025-07-22,2025-08-06,Closed,75.0,Closed late,222,Yes
+CAPA-0115,NC-00581,Minor,Training / human error,2025-05-27,2025,2025-07-26,2025-07-24,Closed,58.0,Closed on time,218,Yes
+CAPA-0116,NC-00585,Major,Material / supplier,2025-05-30,2025,2025-07-29,2025-07-22,Closed,53.0,Closed on time,215,No
+CAPA-0117,NC-00583,Major,Material / supplier,2025-06-01,2025,2025-07-31,2025-07-07,Closed,36.0,Closed on time,213,Yes
+CAPA-0118,NC-00599,Major,Procedure / method,2025-06-06,2025,2025-08-05,2025-07-24,Closed,48.0,Closed on time,208,Yes
+CAPA-0119,NC-00598,Minor,Material / supplier,2025-06-10,2025,2025-08-09,2025-06-25,Closed,15.0,Closed on time,204,Yes
+CAPA-0120,NC-00610,Major,Material / supplier,2025-06-11,2025,2025-08-10,2025-08-07,Closed,57.0,Closed on time,203,Yes
+CAPA-0121,NC-00600,Major,Material / supplier,2025-06-13,2025,2025-08-12,2025-07-26,Closed,43.0,Closed on time,201,Yes
+CAPA-0122,NC-00605,Major,Material / supplier,2025-06-14,2025,2025-08-13,2025-07-20,Closed,36.0,Closed on time,200,Yes
+CAPA-0123,NC-00616,Major,Material / supplier,2025-06-15,2025,2025-08-14,2025-08-19,Closed,65.0,Closed late,199,No
+CAPA-0124,NC-00607,Major,Material / supplier,2025-06-16,2025,2025-08-15,2025-07-22,Closed,36.0,Closed on time,198,Yes
+CAPA-0125,NC-00615,Critical,Material / supplier,2025-06-16,2025,2025-07-16,2025-07-31,Closed,45.0,Closed late,198,Yes
+CAPA-0126,NC-00622,Major,Material / supplier,2025-06-19,2025,2025-08-18,2025-08-22,Closed,64.0,Closed late,195,Yes
+CAPA-0127,NC-00641,Major,Material / supplier,2025-06-30,2025,2025-08-29,2025-07-25,Closed,25.0,Closed on time,184,Yes
+CAPA-0128,NC-00639,Major,Material / supplier,2025-07-01,2025,2025-08-30,2025-09-01,Closed,62.0,Closed late,183,No
+CAPA-0129,NC-00645,Major,Material / supplier,2025-07-04,2025,2025-09-02,2025-08-25,Closed,52.0,Closed on time,180,Yes
+CAPA-0130,NC-00648,Major,Material / supplier,2025-07-04,2025,2025-09-02,2025-11-07,Closed,126.0,Closed late,180,Pending
+CAPA-0131,NC-00644,Minor,Material / supplier,2025-07-06,2025,2025-09-04,2025-09-26,Closed,82.0,Closed late,178,Yes
+CAPA-0132,NC-00651,Major,Material / supplier,2025-07-12,2025,2025-09-10,2025-07-21,Closed,9.0,Closed on time,172,Yes
+CAPA-0133,NC-00661,Major,Material / supplier,2025-07-13,2025,2025-09-11,2025-07-30,Closed,17.0,Closed on time,171,Yes
+CAPA-0134,NC-00665,Major,Machine / equipment,2025-07-14,2025,2025-09-12,2025-08-06,Closed,23.0,Closed on time,170,Yes
+CAPA-0135,NC-00670,Major,Training / human error,2025-07-21,2025,2025-09-19,2025-10-30,Closed,101.0,Closed late,163,Pending
+CAPA-0136,NC-00676,Major,Material / supplier,2025-07-26,2025,2025-09-24,2025-09-15,Closed,51.0,Closed on time,158,Yes
+CAPA-0137,NC-00678,Major,Procedure / method,2025-07-26,2025,2025-09-24,2025-10-26,Closed,92.0,Closed late,158,Pending
+CAPA-0138,NC-00701,Minor,Measurement,2025-08-19,2025,2025-10-18,,Open,,"Open, overdue",134,Pending
+CAPA-0139,NC-00710,Major,Procedure / method,2025-08-23,2025,2025-10-22,2025-12-22,Closed,121.0,Closed late,130,Pending
+CAPA-0140,NC-00711,Minor,Machine / equipment,2025-08-23,2025,2025-10-22,2025-09-13,Closed,21.0,Closed on time,130,Yes
+CAPA-0141,NC-00708,Major,Material / supplier,2025-08-26,2025,2025-10-25,,Open,,"Open, overdue",127,Pending
+CAPA-0142,NC-00715,Major,Material / supplier,2025-08-26,2025,2025-10-25,2025-10-10,Closed,45.0,Closed on time,127,Pending
+CAPA-0143,NC-00716,Major,Material / supplier,2025-08-29,2025,2025-10-28,2025-09-20,Closed,22.0,Closed on time,124,Yes
+CAPA-0144,NC-00717,Major,Training / human error,2025-09-01,2025,2025-10-31,2025-10-27,Closed,56.0,Closed on time,121,Pending
+CAPA-0145,NC-00718,Major,Material / supplier,2025-09-02,2025,2025-11-01,2025-11-10,Closed,69.0,Closed late,120,Pending
+CAPA-0146,NC-00735,Major,Training / human error,2025-09-17,2025,2025-11-16,2025-12-03,Closed,77.0,Closed late,105,Pending
+CAPA-0147,NC-00738,Major,Training / human error,2025-09-20,2025,2025-11-19,2025-11-12,Closed,53.0,Closed on time,102,Pending
+CAPA-0148,NC-00739,Major,Training / human error,2025-09-23,2025,2025-11-22,2025-11-07,Closed,45.0,Closed on time,99,Pending
+CAPA-0149,NC-00740,Major,Design,2025-09-28,2025,2025-11-27,,Open,,"Open, overdue",94,Pending
+CAPA-0150,NC-00741,Major,Training / human error,2025-09-29,2025,2025-11-28,2025-11-22,Closed,54.0,Closed on time,93,Pending
+CAPA-0151,NC-00747,Critical,Material / supplier,2025-09-29,2025,2025-10-29,2025-10-23,Closed,24.0,Closed on time,93,Pending
+CAPA-0152,NC-00755,Major,Design,2025-10-03,2025,2025-12-02,2025-11-03,Closed,31.0,Closed on time,89,Pending
+CAPA-0153,NC-00760,Major,Training / human error,2025-10-08,2025,2025-12-07,2025-11-12,Closed,35.0,Closed on time,84,Pending
+CAPA-0154,NC-00758,Major,Machine / equipment,2025-10-10,2025,2025-12-09,2025-11-13,Closed,34.0,Closed on time,82,Pending
+CAPA-0155,NC-00765,Major,Machine / equipment,2025-10-16,2025,2025-12-15,2025-12-01,Closed,46.0,Closed on time,76,Pending
+CAPA-0156,NC-00769,Major,Material / supplier,2025-10-16,2025,2025-12-15,,Open,,"Open, overdue",76,Pending
+CAPA-0157,NC-00772,Critical,Training / human error,2025-10-21,2025,2025-11-20,2025-12-25,Closed,65.0,Closed late,71,Pending
+CAPA-0158,NC-00779,Major,Training / human error,2025-10-25,2025,2025-12-24,2025-12-01,Closed,37.0,Closed on time,67,Pending
+CAPA-0159,NC-00781,Major,Material / supplier,2025-10-25,2025,2025-12-24,2025-12-24,Closed,60.0,Closed on time,67,Pending
+CAPA-0160,NC-00782,Major,Design,2025-11-02,2025,2026-01-01,2025-12-27,Closed,55.0,Closed on time,59,Pending
+CAPA-0161,NC-00793,Critical,Machine / equipment,2025-11-06,2025,2025-12-06,2025-12-06,Closed,30.0,Closed on time,55,Pending
+CAPA-0162,NC-00792,Major,Machine / equipment,2025-11-10,2025,2026-01-09,2025-12-07,Closed,27.0,Closed on time,51,Pending
+CAPA-0163,NC-00796,Minor,Material / supplier,2025-11-13,2025,2026-01-12,,Open,,"Open, not yet due",48,Pending
+CAPA-0164,NC-00800,Major,Material / supplier,2025-11-14,2025,2026-01-13,,Open,,"Open, not yet due",47,Pending
+CAPA-0165,NC-00803,Critical,Machine / equipment,2025-11-18,2025,2025-12-18,,Open,,"Open, overdue",43,Pending
+CAPA-0166,NC-00806,Critical,Procedure / method,2025-11-25,2025,2025-12-25,,Open,,"Open, overdue",36,Pending
+CAPA-0167,NC-00811,Critical,Material / supplier,2025-11-28,2025,2025-12-28,2025-12-19,Closed,21.0,Closed on time,33,Pending
+CAPA-0168,NC-00815,Major,Training / human error,2025-11-30,2025,2026-01-29,,Open,,"Open, not yet due",31,Pending
+CAPA-0169,NC-00818,Major,Training / human error,2025-11-30,2025,2026-01-29,2025-12-27,Closed,27.0,Closed on time,31,Pending
+CAPA-0170,NC-00827,Critical,Design,2025-12-08,2025,2026-01-07,,Open,,"Open, not yet due",23,Pending
+CAPA-0171,NC-00831,Major,Material / supplier,2025-12-11,2025,2026-02-09,,Open,,"Open, not yet due",20,Pending
+CAPA-0172,NC-00830,Critical,Material / supplier,2025-12-12,2025,2026-01-11,,Open,,"Open, not yet due",19,Pending
+CAPA-0173,NC-00833,Critical,Machine / equipment,2025-12-12,2025,2026-01-11,,Open,,"Open, not yet due",19,Pending
+CAPA-0174,NC-00838,Critical,Training / human error,2025-12-17,2025,2026-01-16,,Open,,"Open, not yet due",14,Pending
+CAPA-0175,NC-00842,Major,Procedure / method,2025-12-19,2025,2026-02-17,,Open,,"Open, not yet due",12,Pending
+CAPA-0176,NC-00849,Major,Training / human error,2025-12-24,2025,2026-02-22,,Open,,"Open, not yet due",7,Pending

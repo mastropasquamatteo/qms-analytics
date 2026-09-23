@@ -1,0 +1,7 @@
+root_cause_category,n_capa,n_checked,n_effective,effective_pct
+Training / human error,39,26,12,46.2
+Measurement,5,4,3,75.0
+Machine / equipment,27,21,18,85.7
+Material / supplier,71,58,50,86.2
+Procedure / method,26,22,20,90.9
+Design,8,4,4,100.0
