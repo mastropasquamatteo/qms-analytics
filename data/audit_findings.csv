@@ -1,0 +1,88 @@
+finding_id,audit_id,audit_type,audit_date,standard,clause,clause_title,finding_type,closed_date
+F-0001,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Minor NC,2024-04-30
+F-0002,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2024-07-08
+F-0003,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2024-04-29
+F-0004,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,8.5.2,Corrective action,Minor NC,2024-04-29
+F-0005,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,4.2.5,Control of records,Observation,2024-06-05
+F-0006,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,8.5.2,Corrective action,Observation,2024-04-16
+F-0007,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,8.5.2,Corrective action,Observation,2024-04-05
+F-0008,IA-2024-Q1,Internal,2024-03-13,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2024-07-10
+F-0009,SA-2024-1,Supplier,2024-04-07,ISO 13485:2016,7.5.1,Control of production and service provision,Observation,2024-06-08
+F-0010,SA-2024-1,Supplier,2024-04-07,ISO 13485:2016,8.3,Control of nonconforming product,Minor NC,2024-05-13
+F-0011,SA-2024-1,Supplier,2024-04-07,ISO 13485:2016,7.4,Purchasing,Minor NC,2024-05-06
+F-0012,SA-2024-1,Supplier,2024-04-07,ISO 13485:2016,7.4,Purchasing,Minor NC,2024-05-29
+F-0013,SA-2024-1,Supplier,2024-04-07,ISO 13485:2016,7.4,Purchasing,Observation,2024-06-27
+F-0014,SA-2024-1,Supplier,2024-04-07,ISO 13485:2016,7.5.1,Control of production and service provision,Minor NC,2024-06-28
+F-0015,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,7.5.6,Validation of processes for production and service provision,Observation,2024-08-23
+F-0016,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2024-07-10
+F-0017,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,7.4,Purchasing,Observation,2024-09-05
+F-0018,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,4.2.5,Control of records,Observation,2024-09-10
+F-0019,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,6.2,Human resources,Observation,2024-08-31
+F-0020,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,4.2.5,Control of records,Major NC,2024-08-01
+F-0021,IA-2024-Q2,Internal,2024-06-15,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2024-08-01
+F-0022,SA-2024-2,Supplier,2024-08-23,ISO 13485:2016,7.5.1,Control of production and service provision,Observation,2024-09-17
+F-0023,SA-2024-2,Supplier,2024-08-23,ISO 13485:2016,8.3,Control of nonconforming product,Minor NC,2024-10-22
+F-0024,SA-2024-2,Supplier,2024-08-23,ISO 13485:2016,7.5.1,Control of production and service provision,Observation,2024-12-07
+F-0025,SA-2024-2,Supplier,2024-08-23,ISO 13485:2016,8.3,Control of nonconforming product,Minor NC,2024-11-08
+F-0026,SA-2024-2,Supplier,2024-08-23,ISO 13485:2016,7.5.1,Control of production and service provision,Observation,2024-11-14
+F-0027,SA-2024-2,Supplier,2024-08-23,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2024-10-09
+F-0028,IA-2024-Q3,Internal,2024-09-22,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Minor NC,2024-12-18
+F-0029,IA-2024-Q3,Internal,2024-09-22,ISO 13485:2016,7.5.1,Control of production and service provision,Minor NC,2024-10-21
+F-0030,IA-2024-Q3,Internal,2024-09-22,ISO 13485:2016,4.2.5,Control of records,Observation,2024-11-25
+F-0031,IA-2024-Q3,Internal,2024-09-22,ISO 13485:2016,7.5.1,Control of production and service provision,Observation,2024-12-20
+F-0032,IA-2024-Q3,Internal,2024-09-22,ISO 13485:2016,4.2.5,Control of records,Minor NC,2024-10-27
+F-0033,CA-2024,Certification,2024-10-22,ISO 13485:2016,8.5.2,Corrective action,Observation,2024-12-14
+F-0034,CA-2024,Certification,2024-10-22,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Major NC,2024-11-29
+F-0035,CA-2024,Certification,2024-10-22,ISO 13485:2016,4.2.4,Control of documents,Observation,2025-01-23
+F-0036,CA-2024,Certification,2024-10-22,ISO 13485:2016,4.2.5,Control of records,Minor NC,2024-11-11
+F-0037,CA-2024,Certification,2024-10-22,ISO 13485:2016,8.2.4,Internal audit,Observation,2024-11-22
+F-0038,CA-2024,Certification,2024-10-22,ISO 13485:2016,7.5.1,Control of production and service provision,Observation,2024-12-02
+F-0039,CA-2024,Certification,2024-10-22,ISO 13485:2016,4.2.5,Control of records,Major NC,2025-01-12
+F-0040,CA-2024,Certification,2024-10-22,ISO 13485:2016,4.2.5,Control of records,Observation,2025-01-14
+F-0041,IA-2024-Q4,Internal,2024-11-11,ISO 13485:2016,4.2.4,Control of documents,Observation,2024-12-26
+F-0042,IA-2024-Q4,Internal,2024-11-11,ISO 13485:2016,8.3,Control of nonconforming product,Minor NC,2025-01-02
+F-0043,IA-2024-Q4,Internal,2024-11-11,ISO 13485:2016,8.5.2,Corrective action,Minor NC,2024-12-16
+F-0044,IA-2024-Q4,Internal,2024-11-11,ISO 13485:2016,5.6,Management review,Minor NC,2025-02-20
+F-0045,IA-2024-Q4,Internal,2024-11-11,ISO 13485:2016,5.6,Management review,Observation,2024-12-24
+F-0046,IA-2024-Q4,Internal,2024-11-11,ISO 13485:2016,4.2.5,Control of records,Observation,2025-01-17
+F-0047,IA-2025-Q1,Internal,2025-03-13,ISO 13485:2016,4.2.4,Control of documents,Minor NC,2025-06-13
+F-0048,IA-2025-Q1,Internal,2025-03-13,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Minor NC,2025-06-06
+F-0049,IA-2025-Q1,Internal,2025-03-13,ISO 13485:2016,6.2,Human resources,Observation,2025-05-23
+F-0050,IA-2025-Q1,Internal,2025-03-13,ISO 13485:2016,8.2.2,Complaint handling,Observation,2025-06-14
+F-0051,IA-2025-Q1,Internal,2025-03-13,ISO 13485:2016,5.6,Management review,Minor NC,2025-06-01
+F-0052,IA-2025-Q1,Internal,2025-03-13,ISO 13485:2016,7.5.6,Validation of processes for production and service provision,Minor NC,2025-06-24
+F-0053,SA-2025-1,Supplier,2025-04-24,ISO 13485:2016,8.3,Control of nonconforming product,Observation,2025-08-20
+F-0054,SA-2025-1,Supplier,2025-04-24,ISO 13485:2016,8.3,Control of nonconforming product,Observation,2025-06-11
+F-0055,SA-2025-1,Supplier,2025-04-24,ISO 13485:2016,7.4,Purchasing,Minor NC,2025-08-13
+F-0056,SA-2025-1,Supplier,2025-04-24,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2025-05-27
+F-0057,IA-2025-Q2,Internal,2025-06-11,ISO 13485:2016,8.2.2,Complaint handling,Minor NC,2025-08-10
+F-0058,IA-2025-Q2,Internal,2025-06-11,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Minor NC,2025-09-21
+F-0059,IA-2025-Q2,Internal,2025-06-11,ISO 13485:2016,6.2,Human resources,Minor NC,2025-07-09
+F-0060,IA-2025-Q2,Internal,2025-06-11,ISO 13485:2016,7.4,Purchasing,Minor NC,2025-08-06
+F-0061,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2025-12-12
+F-0062,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Minor NC,2025-10-02
+F-0063,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Major NC,2025-12-05
+F-0064,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2025-10-07
+F-0065,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2025-10-17
+F-0066,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,7.4,Purchasing,Minor NC,2025-10-05
+F-0067,SA-2025-2,Supplier,2025-08-20,ISO 13485:2016,8.3,Control of nonconforming product,Observation,2025-11-23
+F-0068,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,4.2.5,Control of records,Observation,2025-12-23
+F-0069,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,7.4,Purchasing,Observation,2025-12-06
+F-0070,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,8.5.2,Corrective action,Minor NC,2025-11-08
+F-0071,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Major NC,2025-11-12
+F-0072,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,8.5.2,Corrective action,Minor NC,2025-12-09
+F-0073,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,8.5.2,Corrective action,Observation,
+F-0074,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,8.5.2,Corrective action,Observation,2025-09-30
+F-0075,IA-2025-Q3,Internal,2025-09-08,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Observation,2025-10-28
+F-0076,CA-2025,Certification,2025-10-23,ISO 13485:2016,8.3,Control of nonconforming product,Minor NC,2025-11-26
+F-0077,CA-2025,Certification,2025-10-23,ISO 13485:2016,7.6,Control of monitoring and measuring equipment,Minor NC,2025-12-14
+F-0078,CA-2025,Certification,2025-10-23,ISO 13485:2016,8.5.2,Corrective action,Observation,2025-12-10
+F-0079,CA-2025,Certification,2025-10-23,ISO 13485:2016,4.2.4,Control of documents,Observation,
+F-0080,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,8.2.4,Internal audit,Observation,2025-12-31
+F-0081,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,8.2.4,Internal audit,Minor NC,2025-12-30
+F-0082,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,8.5.2,Corrective action,Observation,
+F-0083,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,8.5.2,Corrective action,Observation,
+F-0084,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,4.2.5,Control of records,Minor NC,2025-12-09
+F-0085,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,8.3,Control of nonconforming product,Minor NC,2025-12-05
+F-0086,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,6.2,Human resources,Observation,2025-12-10
+F-0087,IA-2025-Q4,Internal,2025-11-14,ISO 13485:2016,6.2,Human resources,Minor NC,

@@ -1,0 +1,855 @@
+nc_id,nc_date,defect_code,defect_description,process,source,supplier_id,severity,qty_affected,cost_eur
+NC-00001,2024-01-01,D06,Device history record incomplete,Documentation,internal,,Minor,7,93.59
+NC-00002,2024-01-02,D08,Firmware version mismatch,Final test,internal,,Major,13,1067.43
+NC-00003,2024-01-02,D02,Dimensional out of tolerance,Machining,internal,,Critical,24,5371.81
+NC-00004,2024-01-03,D03,Solder joint defect,Electronics,internal,,Minor,23,510.3
+NC-00005,2024-01-03,D05,Wrong or missing label,Packaging,internal,,Major,3,101.77
+NC-00006,2024-01-04,D02,Dimensional out of tolerance,Machining,internal,,Major,19,1041.11
+NC-00007,2024-01-04,D06,Device history record incomplete,Documentation,internal,,Minor,21,64.43
+NC-00008,2024-01-04,D01,Connector crimp defect,Assembly,supplier,S12,Critical,10,4520.63
+NC-00009,2024-01-04,D08,Firmware version mismatch,Final test,internal,,Minor,14,371.13
+NC-00010,2024-01-05,D07,Cosmetic scratch,Assembly,internal,,Major,18,197.43
+NC-00011,2024-01-08,D07,Cosmetic scratch,Assembly,internal,,Minor,9,163.49
+NC-00012,2024-01-08,D04,Seal leak at pressure test,Final test,internal,,Major,13,5061.35
+NC-00013,2024-01-09,D05,Wrong or missing label,Packaging,internal,,Minor,13,85.27
+NC-00014,2024-01-09,D06,Device history record incomplete,Documentation,internal,,Minor,1,72.24
+NC-00015,2024-01-09,D05,Wrong or missing label,Packaging,internal,,Major,5,169.05
+NC-00016,2024-01-10,D06,Device history record incomplete,Documentation,internal,,Minor,11,114.58
+NC-00017,2024-01-10,D07,Cosmetic scratch,Assembly,internal,,Minor,10,21.74
+NC-00018,2024-01-10,D05,Wrong or missing label,Packaging,internal,,Minor,4,129.31
+NC-00019,2024-01-11,D03,Solder joint defect,Electronics,internal,,Major,20,212.57
+NC-00020,2024-01-11,D06,Device history record incomplete,Documentation,internal,,Minor,7,37.19
+NC-00021,2024-01-11,D03,Solder joint defect,Electronics,internal,,Minor,15,595.44
+NC-00022,2024-01-12,D03,Solder joint defect,Electronics,internal,,Minor,19,520.48
+NC-00023,2024-01-15,D07,Cosmetic scratch,Assembly,internal,,Minor,23,23.51
+NC-00024,2024-01-15,D04,Seal leak at pressure test,Final test,internal,,Major,12,675.97
+NC-00025,2024-01-16,D05,Wrong or missing label,Packaging,internal,,Minor,20,272.23
+NC-00026,2024-01-17,D07,Cosmetic scratch,Assembly,internal,,Major,12,92.4
+NC-00027,2024-01-18,D03,Solder joint defect,Electronics,internal,,Minor,11,402.61
+NC-00028,2024-01-19,D11,Test fixture calibration overdue,Final test,internal,,Minor,21,237.63
+NC-00029,2024-01-19,D04,Seal leak at pressure test,Final test,internal,,Major,8,1001.02
+NC-00030,2024-01-23,D10,Packaging damage in transit,Customer,customer,,Minor,15,238.47
+NC-00031,2024-01-23,D03,Solder joint defect,Electronics,internal,,Minor,15,120.81
+NC-00032,2024-01-25,D02,Dimensional out of tolerance,Machining,internal,,Minor,23,271.88
+NC-00033,2024-01-25,D02,Dimensional out of tolerance,Machining,internal,,Minor,7,212.69
+NC-00034,2024-01-26,D03,Solder joint defect,Electronics,internal,,Major,13,176.74
+NC-00035,2024-01-29,D10,Packaging damage in transit,Customer,customer,,Major,5,694.8
+NC-00036,2024-01-29,D06,Device history record incomplete,Documentation,internal,,Minor,9,165.52
+NC-00037,2024-01-30,D03,Solder joint defect,Electronics,internal,,Minor,19,100.66
+NC-00038,2024-01-31,D03,Solder joint defect,Electronics,internal,,Minor,7,132.94
+NC-00039,2024-01-31,D04,Seal leak at pressure test,Final test,internal,,Major,1,2792.13
+NC-00040,2024-01-31,D01,Connector crimp defect,Assembly,supplier,S07,Minor,5,1206.62
+NC-00041,2024-01-31,D10,Packaging damage in transit,Customer,customer,,Minor,11,81.42
+NC-00042,2024-02-01,D08,Firmware version mismatch,Final test,internal,,Minor,22,235.29
+NC-00043,2024-02-02,D03,Solder joint defect,Electronics,internal,,Major,19,574.86
+NC-00044,2024-02-05,D05,Wrong or missing label,Packaging,internal,,Minor,7,216.92
+NC-00045,2024-02-07,D03,Solder joint defect,Electronics,internal,,Minor,9,1478.38
+NC-00046,2024-02-07,D07,Cosmetic scratch,Assembly,internal,,Minor,11,142.51
+NC-00047,2024-02-08,D01,Connector crimp defect,Assembly,supplier,S07,Critical,18,899.63
+NC-00048,2024-02-08,D03,Solder joint defect,Electronics,internal,,Minor,2,883.73
+NC-00049,2024-02-09,D02,Dimensional out of tolerance,Machining,internal,,Minor,21,1373.07
+NC-00050,2024-02-12,D07,Cosmetic scratch,Assembly,internal,,Major,15,56.71
+NC-00051,2024-02-15,D06,Device history record incomplete,Documentation,internal,,Major,7,575.05
+NC-00052,2024-02-15,D05,Wrong or missing label,Packaging,internal,,Minor,14,55.78
+NC-00053,2024-02-15,D08,Firmware version mismatch,Final test,internal,,Minor,19,509.54
+NC-00054,2024-02-16,D01,Connector crimp defect,Assembly,supplier,S03,Minor,23,361.69
+NC-00055,2024-02-19,D07,Cosmetic scratch,Assembly,internal,,Minor,2,48.88
+NC-00056,2024-02-20,D06,Device history record incomplete,Documentation,internal,,Major,20,151.16
+NC-00057,2024-02-20,D07,Cosmetic scratch,Assembly,internal,,Minor,10,132.02
+NC-00058,2024-02-21,D08,Firmware version mismatch,Final test,internal,,Major,7,1135.02
+NC-00059,2024-02-21,D02,Dimensional out of tolerance,Machining,internal,,Major,5,1966.48
+NC-00060,2024-02-23,D02,Dimensional out of tolerance,Machining,internal,,Minor,22,492.74
+NC-00061,2024-02-23,D04,Seal leak at pressure test,Final test,internal,,Minor,22,4026.3
+NC-00062,2024-02-27,D01,Connector crimp defect,Assembly,supplier,S05,Major,14,395.38
+NC-00063,2024-02-27,D05,Wrong or missing label,Packaging,internal,,Minor,4,125.93
+NC-00064,2024-02-29,D05,Wrong or missing label,Packaging,internal,,Minor,10,220.32
+NC-00065,2024-03-01,D04,Seal leak at pressure test,Final test,internal,,Major,15,1794.99
+NC-00066,2024-03-01,D10,Packaging damage in transit,Customer,customer,,Minor,2,189.41
+NC-00067,2024-03-04,D07,Cosmetic scratch,Assembly,internal,,Minor,18,64.02
+NC-00068,2024-03-04,D07,Cosmetic scratch,Assembly,internal,,Minor,4,154.91
+NC-00069,2024-03-04,D03,Solder joint defect,Electronics,internal,,Major,22,1532.07
+NC-00070,2024-03-05,D05,Wrong or missing label,Packaging,internal,,Minor,21,197.18
+NC-00071,2024-03-06,D08,Firmware version mismatch,Final test,internal,,Minor,14,416.83
+NC-00072,2024-03-07,D10,Packaging damage in transit,Customer,customer,,Major,17,605.69
+NC-00073,2024-03-07,D03,Solder joint defect,Electronics,internal,,Major,9,111.78
+NC-00074,2024-03-08,D02,Dimensional out of tolerance,Machining,internal,,Minor,20,1492.22
+NC-00075,2024-03-11,D02,Dimensional out of tolerance,Machining,internal,,Minor,19,527.98
+NC-00076,2024-03-12,D06,Device history record incomplete,Documentation,internal,,Minor,7,59.82
+NC-00077,2024-03-13,D01,Connector crimp defect,Assembly,supplier,S02,Minor,22,768.29
+NC-00078,2024-03-14,D07,Cosmetic scratch,Assembly,internal,,Minor,14,20.32
+NC-00079,2024-03-14,D02,Dimensional out of tolerance,Machining,internal,,Minor,5,438.73
+NC-00080,2024-03-15,D05,Wrong or missing label,Packaging,internal,,Minor,24,90.94
+NC-00081,2024-03-15,D03,Solder joint defect,Electronics,internal,,Minor,10,681.61
+NC-00082,2024-03-18,D01,Connector crimp defect,Assembly,supplier,S01,Minor,6,532.61
+NC-00083,2024-03-19,D02,Dimensional out of tolerance,Machining,internal,,Critical,23,2144.55
+NC-00084,2024-03-21,D02,Dimensional out of tolerance,Machining,internal,,Minor,3,706.73
+NC-00085,2024-03-25,D01,Connector crimp defect,Assembly,supplier,S02,Major,13,1957.78
+NC-00086,2024-03-25,D02,Dimensional out of tolerance,Machining,internal,,Minor,17,910.33
+NC-00087,2024-03-26,D09,Incoming material out of spec,Incoming inspection,supplier,S02,Minor,4,937.84
+NC-00088,2024-03-26,D08,Firmware version mismatch,Final test,internal,,Minor,16,363.61
+NC-00089,2024-03-26,D11,Test fixture calibration overdue,Final test,internal,,Minor,5,881.67
+NC-00090,2024-03-27,D01,Connector crimp defect,Assembly,supplier,S10,Minor,5,1631.14
+NC-00091,2024-03-28,D10,Packaging damage in transit,Customer,customer,,Minor,3,129.58
+NC-00092,2024-03-28,D06,Device history record incomplete,Documentation,internal,,Minor,3,83.94
+NC-00093,2024-03-28,D04,Seal leak at pressure test,Final test,internal,,Major,9,2209.76
+NC-00094,2024-03-29,D08,Firmware version mismatch,Final test,internal,,Minor,23,92.82
+NC-00095,2024-03-29,D05,Wrong or missing label,Packaging,internal,,Critical,10,899.27
+NC-00096,2024-03-29,D06,Device history record incomplete,Documentation,internal,,Minor,13,73.16
+NC-00097,2024-04-01,D03,Solder joint defect,Electronics,internal,,Minor,23,509.14
+NC-00098,2024-04-01,D05,Wrong or missing label,Packaging,internal,,Minor,5,532.26
+NC-00099,2024-04-02,D03,Solder joint defect,Electronics,internal,,Minor,6,696.75
+NC-00100,2024-04-02,D05,Wrong or missing label,Packaging,internal,,Minor,23,186.08
+NC-00101,2024-04-03,D01,Connector crimp defect,Assembly,supplier,S01,Minor,24,1537.07
+NC-00102,2024-04-04,D11,Test fixture calibration overdue,Final test,internal,,Minor,16,244.86
+NC-00103,2024-04-05,D05,Wrong or missing label,Packaging,internal,,Minor,21,135.2
+NC-00104,2024-04-08,D01,Connector crimp defect,Assembly,supplier,S09,Minor,4,357.93
+NC-00105,2024-04-08,D04,Seal leak at pressure test,Final test,internal,,Minor,17,1521.88
+NC-00106,2024-04-09,D09,Incoming material out of spec,Incoming inspection,supplier,S03,Minor,11,289.61
+NC-00107,2024-04-10,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Minor,20,424.63
+NC-00108,2024-04-12,D02,Dimensional out of tolerance,Machining,internal,,Minor,3,107.27
+NC-00109,2024-04-12,D06,Device history record incomplete,Documentation,internal,,Minor,14,28.84
+NC-00110,2024-04-15,D05,Wrong or missing label,Packaging,internal,,Minor,3,201.13
+NC-00111,2024-04-16,D02,Dimensional out of tolerance,Machining,internal,,Minor,6,1165.34
+NC-00112,2024-04-17,D07,Cosmetic scratch,Assembly,internal,,Minor,19,47.13
+NC-00113,2024-04-17,D05,Wrong or missing label,Packaging,internal,,Major,16,106.62
+NC-00114,2024-04-17,D10,Packaging damage in transit,Customer,customer,,Minor,12,97.82
+NC-00115,2024-04-18,D11,Test fixture calibration overdue,Final test,internal,,Minor,11,19.07
+NC-00116,2024-04-18,D05,Wrong or missing label,Packaging,internal,,Minor,2,434.34
+NC-00117,2024-04-19,D05,Wrong or missing label,Packaging,internal,,Minor,20,350.21
+NC-00118,2024-04-19,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,8,576.59
+NC-00119,2024-04-19,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Minor,7,508.27
+NC-00120,2024-04-23,D05,Wrong or missing label,Packaging,internal,,Major,3,380.01
+NC-00121,2024-04-24,D09,Incoming material out of spec,Incoming inspection,supplier,S07,Minor,22,430.73
+NC-00122,2024-04-24,D01,Connector crimp defect,Assembly,supplier,S11,Minor,5,571.75
+NC-00123,2024-04-24,D06,Device history record incomplete,Documentation,internal,,Minor,5,64.98
+NC-00124,2024-04-24,D03,Solder joint defect,Electronics,internal,,Major,23,1241.21
+NC-00125,2024-04-25,D01,Connector crimp defect,Assembly,supplier,S05,Minor,22,415.58
+NC-00126,2024-04-25,D04,Seal leak at pressure test,Final test,internal,,Minor,13,2533.1
+NC-00127,2024-04-26,D06,Device history record incomplete,Documentation,internal,,Major,14,340.76
+NC-00128,2024-04-29,D02,Dimensional out of tolerance,Machining,internal,,Major,24,6230.6
+NC-00129,2024-04-29,D05,Wrong or missing label,Packaging,internal,,Minor,8,207.76
+NC-00130,2024-04-29,D11,Test fixture calibration overdue,Final test,internal,,Major,7,524.23
+NC-00131,2024-04-30,D05,Wrong or missing label,Packaging,internal,,Minor,8,121.15
+NC-00132,2024-05-01,D05,Wrong or missing label,Packaging,internal,,Minor,20,196.76
+NC-00133,2024-05-01,D10,Packaging damage in transit,Customer,customer,,Minor,24,204.92
+NC-00134,2024-05-02,D02,Dimensional out of tolerance,Machining,internal,,Minor,4,494.32
+NC-00135,2024-05-02,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Major,6,1114.04
+NC-00136,2024-05-03,D07,Cosmetic scratch,Assembly,internal,,Major,7,203.14
+NC-00137,2024-05-03,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Major,9,2420.19
+NC-00138,2024-05-07,D10,Packaging damage in transit,Customer,customer,,Minor,10,123.16
+NC-00139,2024-05-07,D03,Solder joint defect,Electronics,internal,,Minor,24,805.19
+NC-00140,2024-05-07,D01,Connector crimp defect,Assembly,supplier,S01,Major,15,2342.83
+NC-00141,2024-05-10,D05,Wrong or missing label,Packaging,internal,,Major,21,71.1
+NC-00142,2024-05-13,D05,Wrong or missing label,Packaging,internal,,Minor,16,99.51
+NC-00143,2024-05-13,D04,Seal leak at pressure test,Final test,internal,,Minor,18,2594.33
+NC-00144,2024-05-14,D07,Cosmetic scratch,Assembly,internal,,Critical,18,263.07
+NC-00145,2024-05-16,D11,Test fixture calibration overdue,Final test,internal,,Minor,16,475.82
+NC-00146,2024-05-16,D04,Seal leak at pressure test,Final test,internal,,Minor,10,656.44
+NC-00147,2024-05-17,D04,Seal leak at pressure test,Final test,internal,,Minor,19,4126.58
+NC-00148,2024-05-20,D05,Wrong or missing label,Packaging,internal,,Minor,21,89.07
+NC-00149,2024-05-20,D02,Dimensional out of tolerance,Machining,internal,,Critical,20,4155.41
+NC-00150,2024-05-21,D03,Solder joint defect,Electronics,internal,,Minor,16,723.51
+NC-00151,2024-05-21,D01,Connector crimp defect,Assembly,supplier,S02,Major,20,1112.37
+NC-00152,2024-05-22,D06,Device history record incomplete,Documentation,internal,,Minor,4,84.99
+NC-00153,2024-05-23,D01,Connector crimp defect,Assembly,supplier,S08,Minor,18,1579.85
+NC-00154,2024-05-23,D01,Connector crimp defect,Assembly,supplier,S08,Major,9,1119.29
+NC-00155,2024-05-23,D03,Solder joint defect,Electronics,internal,,Minor,7,526.02
+NC-00156,2024-05-24,D06,Device history record incomplete,Documentation,internal,,Minor,15,45.13
+NC-00157,2024-05-24,D01,Connector crimp defect,Assembly,supplier,S08,Minor,21,934.73
+NC-00158,2024-05-27,D06,Device history record incomplete,Documentation,internal,,Minor,6,62.94
+NC-00159,2024-05-27,D03,Solder joint defect,Electronics,internal,,Minor,3,1010.96
+NC-00160,2024-05-27,D07,Cosmetic scratch,Assembly,internal,,Critical,3,92.21
+NC-00161,2024-05-29,D08,Firmware version mismatch,Final test,internal,,Major,24,379.4
+NC-00162,2024-05-29,D11,Test fixture calibration overdue,Final test,internal,,Minor,4,48.23
+NC-00163,2024-05-30,D06,Device history record incomplete,Documentation,internal,,Major,24,138.82
+NC-00164,2024-05-31,D06,Device history record incomplete,Documentation,internal,,Minor,8,20.2
+NC-00165,2024-05-31,D04,Seal leak at pressure test,Final test,internal,,Major,19,4013.1
+NC-00166,2024-05-31,D02,Dimensional out of tolerance,Machining,internal,,Major,5,1940.87
+NC-00167,2024-06-03,D08,Firmware version mismatch,Final test,internal,,Major,5,248.27
+NC-00168,2024-06-03,D03,Solder joint defect,Electronics,internal,,Minor,18,485.52
+NC-00169,2024-06-04,D05,Wrong or missing label,Packaging,internal,,Minor,24,423.04
+NC-00170,2024-06-05,D05,Wrong or missing label,Packaging,internal,,Minor,11,115.85
+NC-00171,2024-06-05,D01,Connector crimp defect,Assembly,supplier,S09,Major,21,1529.1
+NC-00172,2024-06-06,D05,Wrong or missing label,Packaging,internal,,Minor,11,101.48
+NC-00173,2024-06-07,D10,Packaging damage in transit,Customer,customer,,Minor,8,574.49
+NC-00174,2024-06-10,D02,Dimensional out of tolerance,Machining,internal,,Minor,13,924.8
+NC-00175,2024-06-10,D05,Wrong or missing label,Packaging,internal,,Critical,9,1100.94
+NC-00176,2024-06-11,D01,Connector crimp defect,Assembly,supplier,S11,Major,9,1251.11
+NC-00177,2024-06-12,D07,Cosmetic scratch,Assembly,internal,,Minor,11,14.82
+NC-00178,2024-06-12,D05,Wrong or missing label,Packaging,internal,,Minor,19,398.61
+NC-00179,2024-06-14,D02,Dimensional out of tolerance,Machining,internal,,Minor,16,3106.53
+NC-00180,2024-06-17,D04,Seal leak at pressure test,Final test,internal,,Minor,6,652.81
+NC-00181,2024-06-17,D07,Cosmetic scratch,Assembly,internal,,Minor,24,241.89
+NC-00182,2024-06-18,D02,Dimensional out of tolerance,Machining,internal,,Minor,7,955.47
+NC-00183,2024-06-18,D11,Test fixture calibration overdue,Final test,internal,,Minor,21,167.0
+NC-00184,2024-06-19,D03,Solder joint defect,Electronics,internal,,Minor,1,878.23
+NC-00185,2024-06-19,D02,Dimensional out of tolerance,Machining,internal,,Minor,1,307.04
+NC-00186,2024-06-20,D03,Solder joint defect,Electronics,internal,,Major,4,671.42
+NC-00187,2024-06-21,D05,Wrong or missing label,Packaging,internal,,Minor,21,233.73
+NC-00188,2024-06-21,D05,Wrong or missing label,Packaging,internal,,Minor,24,653.4
+NC-00189,2024-06-26,D03,Solder joint defect,Electronics,internal,,Major,9,436.45
+NC-00190,2024-06-27,D05,Wrong or missing label,Packaging,internal,,Minor,1,471.31
+NC-00191,2024-06-27,D03,Solder joint defect,Electronics,internal,,Minor,4,650.3
+NC-00192,2024-06-28,D03,Solder joint defect,Electronics,internal,,Minor,22,140.29
+NC-00193,2024-06-28,D09,Incoming material out of spec,Incoming inspection,supplier,S07,Minor,4,556.22
+NC-00194,2024-06-28,D10,Packaging damage in transit,Customer,customer,,Major,6,131.02
+NC-00195,2024-06-28,D03,Solder joint defect,Electronics,internal,,Minor,24,431.27
+NC-00196,2024-06-28,D03,Solder joint defect,Electronics,internal,,Minor,10,160.78
+NC-00197,2024-07-02,D06,Device history record incomplete,Documentation,internal,,Minor,8,146.42
+NC-00198,2024-07-02,D07,Cosmetic scratch,Assembly,internal,,Minor,21,201.94
+NC-00199,2024-07-03,D04,Seal leak at pressure test,Final test,internal,,Minor,4,1869.97
+NC-00200,2024-07-04,D06,Device history record incomplete,Documentation,internal,,Minor,18,49.86
+NC-00201,2024-07-05,D06,Device history record incomplete,Documentation,internal,,Major,5,224.61
+NC-00202,2024-07-05,D02,Dimensional out of tolerance,Machining,internal,,Minor,15,564.78
+NC-00203,2024-07-05,D06,Device history record incomplete,Documentation,internal,,Major,3,122.64
+NC-00204,2024-07-05,D06,Device history record incomplete,Documentation,internal,,Major,14,51.27
+NC-00205,2024-07-08,D05,Wrong or missing label,Packaging,internal,,Minor,1,96.58
+NC-00206,2024-07-09,D07,Cosmetic scratch,Assembly,internal,,Major,10,46.37
+NC-00207,2024-07-10,D04,Seal leak at pressure test,Final test,internal,,Minor,18,1579.36
+NC-00208,2024-07-11,D08,Firmware version mismatch,Final test,internal,,Minor,14,141.07
+NC-00209,2024-07-15,D03,Solder joint defect,Electronics,internal,,Minor,1,501.07
+NC-00210,2024-07-15,D02,Dimensional out of tolerance,Machining,internal,,Minor,17,465.03
+NC-00211,2024-07-16,D02,Dimensional out of tolerance,Machining,internal,,Minor,9,1685.02
+NC-00212,2024-07-16,D04,Seal leak at pressure test,Final test,internal,,Major,2,2432.02
+NC-00213,2024-07-16,D11,Test fixture calibration overdue,Final test,internal,,Minor,1,182.27
+NC-00214,2024-07-17,D09,Incoming material out of spec,Incoming inspection,supplier,S10,Minor,17,631.57
+NC-00215,2024-07-19,D01,Connector crimp defect,Assembly,supplier,S04,Minor,12,1430.19
+NC-00216,2024-07-19,D05,Wrong or missing label,Packaging,internal,,Minor,9,39.56
+NC-00217,2024-07-23,D02,Dimensional out of tolerance,Machining,internal,,Major,12,363.63
+NC-00218,2024-07-24,D02,Dimensional out of tolerance,Machining,internal,,Minor,21,994.6
+NC-00219,2024-07-25,D04,Seal leak at pressure test,Final test,internal,,Minor,13,2681.7
+NC-00220,2024-07-25,D02,Dimensional out of tolerance,Machining,internal,,Minor,23,838.19
+NC-00221,2024-07-26,D09,Incoming material out of spec,Incoming inspection,supplier,S08,Minor,14,543.32
+NC-00222,2024-07-26,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Major,23,1780.74
+NC-00223,2024-07-30,D03,Solder joint defect,Electronics,internal,,Minor,6,464.36
+NC-00224,2024-08-01,D08,Firmware version mismatch,Final test,internal,,Minor,6,187.9
+NC-00225,2024-08-01,D03,Solder joint defect,Electronics,internal,,Major,21,763.33
+NC-00226,2024-08-01,D01,Connector crimp defect,Assembly,supplier,S01,Major,16,296.68
+NC-00227,2024-08-02,D02,Dimensional out of tolerance,Machining,internal,,Minor,6,165.51
+NC-00228,2024-08-02,D05,Wrong or missing label,Packaging,internal,,Critical,9,705.71
+NC-00229,2024-08-05,D10,Packaging damage in transit,Customer,customer,,Major,5,1095.07
+NC-00230,2024-08-06,D02,Dimensional out of tolerance,Machining,internal,,Minor,4,338.94
+NC-00231,2024-08-06,D09,Incoming material out of spec,Incoming inspection,supplier,S06,Minor,17,107.78
+NC-00232,2024-08-07,D06,Device history record incomplete,Documentation,internal,,Major,13,62.85
+NC-00233,2024-08-07,D07,Cosmetic scratch,Assembly,internal,,Major,8,100.25
+NC-00234,2024-08-08,D05,Wrong or missing label,Packaging,internal,,Minor,9,44.72
+NC-00235,2024-08-08,D07,Cosmetic scratch,Assembly,internal,,Minor,3,12.81
+NC-00236,2024-08-09,D03,Solder joint defect,Electronics,internal,,Minor,24,929.65
+NC-00237,2024-08-09,D08,Firmware version mismatch,Final test,internal,,Minor,21,400.95
+NC-00238,2024-08-09,D07,Cosmetic scratch,Assembly,internal,,Minor,18,76.23
+NC-00239,2024-08-12,D11,Test fixture calibration overdue,Final test,internal,,Critical,8,773.26
+NC-00240,2024-08-13,D08,Firmware version mismatch,Final test,internal,,Minor,14,221.92
+NC-00241,2024-08-15,D08,Firmware version mismatch,Final test,internal,,Major,18,233.39
+NC-00242,2024-08-15,D03,Solder joint defect,Electronics,internal,,Minor,14,880.58
+NC-00243,2024-08-15,D07,Cosmetic scratch,Assembly,internal,,Minor,6,117.66
+NC-00244,2024-08-16,D06,Device history record incomplete,Documentation,internal,,Minor,24,100.56
+NC-00245,2024-08-16,D05,Wrong or missing label,Packaging,internal,,Minor,14,87.14
+NC-00246,2024-08-19,D07,Cosmetic scratch,Assembly,internal,,Major,2,105.34
+NC-00247,2024-08-20,D03,Solder joint defect,Electronics,internal,,Minor,16,176.59
+NC-00248,2024-08-20,D08,Firmware version mismatch,Final test,internal,,Major,24,1075.71
+NC-00249,2024-08-20,D05,Wrong or missing label,Packaging,internal,,Major,23,237.45
+NC-00250,2024-08-20,D08,Firmware version mismatch,Final test,internal,,Minor,16,88.74
+NC-00251,2024-08-21,D03,Solder joint defect,Electronics,internal,,Minor,7,357.32
+NC-00252,2024-08-21,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Minor,18,558.67
+NC-00253,2024-08-22,D02,Dimensional out of tolerance,Machining,internal,,Major,22,4996.35
+NC-00254,2024-08-22,D02,Dimensional out of tolerance,Machining,internal,,Major,8,5488.11
+NC-00255,2024-08-22,D02,Dimensional out of tolerance,Machining,internal,,Major,9,3630.07
+NC-00256,2024-08-22,D03,Solder joint defect,Electronics,internal,,Minor,22,710.54
+NC-00257,2024-08-23,D03,Solder joint defect,Electronics,internal,,Minor,19,157.01
+NC-00258,2024-08-26,D03,Solder joint defect,Electronics,internal,,Minor,12,1167.33
+NC-00259,2024-08-26,D05,Wrong or missing label,Packaging,internal,,Major,9,125.87
+NC-00260,2024-08-26,D02,Dimensional out of tolerance,Machining,internal,,Minor,8,701.28
+NC-00261,2024-08-26,D01,Connector crimp defect,Assembly,supplier,S09,Minor,14,1216.05
+NC-00262,2024-08-26,D03,Solder joint defect,Electronics,internal,,Minor,10,160.38
+NC-00263,2024-08-27,D10,Packaging damage in transit,Customer,customer,,Major,21,256.51
+NC-00264,2024-08-28,D01,Connector crimp defect,Assembly,supplier,S05,Minor,19,748.64
+NC-00265,2024-08-28,D01,Connector crimp defect,Assembly,supplier,S06,Major,10,848.58
+NC-00266,2024-08-29,D02,Dimensional out of tolerance,Machining,internal,,Minor,20,414.52
+NC-00267,2024-08-29,D05,Wrong or missing label,Packaging,internal,,Minor,9,149.55
+NC-00268,2024-08-29,D01,Connector crimp defect,Assembly,supplier,S05,Critical,8,4312.9
+NC-00269,2024-08-30,D08,Firmware version mismatch,Final test,internal,,Minor,24,551.83
+NC-00270,2024-09-02,D02,Dimensional out of tolerance,Machining,internal,,Minor,21,128.35
+NC-00271,2024-09-03,D01,Connector crimp defect,Assembly,supplier,S02,Major,17,2079.09
+NC-00272,2024-09-03,D02,Dimensional out of tolerance,Machining,internal,,Minor,14,811.07
+NC-00273,2024-09-05,D06,Device history record incomplete,Documentation,internal,,Minor,3,26.1
+NC-00274,2024-09-05,D03,Solder joint defect,Electronics,internal,,Minor,17,765.35
+NC-00275,2024-09-05,D07,Cosmetic scratch,Assembly,internal,,Minor,3,64.84
+NC-00276,2024-09-06,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Critical,9,4637.56
+NC-00277,2024-09-06,D06,Device history record incomplete,Documentation,internal,,Minor,19,73.87
+NC-00278,2024-09-06,D05,Wrong or missing label,Packaging,internal,,Minor,15,35.62
+NC-00279,2024-09-10,D05,Wrong or missing label,Packaging,internal,,Minor,6,139.7
+NC-00280,2024-09-10,D06,Device history record incomplete,Documentation,internal,,Minor,9,42.91
+NC-00281,2024-09-11,D05,Wrong or missing label,Packaging,internal,,Major,6,887.98
+NC-00282,2024-09-11,D06,Device history record incomplete,Documentation,internal,,Minor,8,96.25
+NC-00283,2024-09-11,D02,Dimensional out of tolerance,Machining,internal,,Major,14,5234.52
+NC-00284,2024-09-11,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Minor,7,1697.16
+NC-00285,2024-09-12,D02,Dimensional out of tolerance,Machining,internal,,Minor,16,947.3
+NC-00286,2024-09-12,D02,Dimensional out of tolerance,Machining,internal,,Major,15,551.33
+NC-00287,2024-09-13,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,13,424.29
+NC-00288,2024-09-13,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Minor,12,318.92
+NC-00289,2024-09-16,D07,Cosmetic scratch,Assembly,internal,,Minor,18,128.13
+NC-00290,2024-09-17,D01,Connector crimp defect,Assembly,supplier,S03,Minor,16,647.49
+NC-00291,2024-09-17,D03,Solder joint defect,Electronics,internal,,Major,21,2648.56
+NC-00292,2024-09-17,D02,Dimensional out of tolerance,Machining,internal,,Major,8,2374.4
+NC-00293,2024-09-18,D09,Incoming material out of spec,Incoming inspection,supplier,S01,Major,4,1675.02
+NC-00294,2024-09-18,D02,Dimensional out of tolerance,Machining,internal,,Minor,22,977.03
+NC-00295,2024-09-18,D01,Connector crimp defect,Assembly,supplier,S07,Minor,3,631.7
+NC-00296,2024-09-19,D03,Solder joint defect,Electronics,internal,,Major,19,227.06
+NC-00297,2024-09-23,D05,Wrong or missing label,Packaging,internal,,Major,3,254.85
+NC-00298,2024-09-23,D09,Incoming material out of spec,Incoming inspection,supplier,S11,Critical,17,8263.81
+NC-00299,2024-09-24,D02,Dimensional out of tolerance,Machining,internal,,Minor,13,335.88
+NC-00300,2024-09-24,D10,Packaging damage in transit,Customer,customer,,Minor,18,111.55
+NC-00301,2024-09-25,D06,Device history record incomplete,Documentation,internal,,Minor,18,19.82
+NC-00302,2024-09-26,D10,Packaging damage in transit,Customer,customer,,Minor,17,110.95
+NC-00303,2024-09-26,D02,Dimensional out of tolerance,Machining,internal,,Minor,22,831.61
+NC-00304,2024-09-26,D07,Cosmetic scratch,Assembly,internal,,Minor,17,79.29
+NC-00305,2024-09-26,D01,Connector crimp defect,Assembly,supplier,S05,Minor,15,1558.28
+NC-00306,2024-09-27,D06,Device history record incomplete,Documentation,internal,,Major,21,414.94
+NC-00307,2024-10-02,D01,Connector crimp defect,Assembly,supplier,S10,Minor,3,2603.39
+NC-00308,2024-10-02,D08,Firmware version mismatch,Final test,internal,,Minor,2,1162.45
+NC-00309,2024-10-03,D11,Test fixture calibration overdue,Final test,internal,,Minor,12,650.11
+NC-00310,2024-10-04,D11,Test fixture calibration overdue,Final test,internal,,Minor,21,184.15
+NC-00311,2024-10-04,D06,Device history record incomplete,Documentation,internal,,Minor,18,31.02
+NC-00312,2024-10-07,D05,Wrong or missing label,Packaging,internal,,Minor,19,86.76
+NC-00313,2024-10-08,D01,Connector crimp defect,Assembly,supplier,S03,Minor,18,640.94
+NC-00314,2024-10-08,D06,Device history record incomplete,Documentation,internal,,Minor,5,82.66
+NC-00315,2024-10-08,D05,Wrong or missing label,Packaging,internal,,Minor,13,211.87
+NC-00316,2024-10-09,D06,Device history record incomplete,Documentation,internal,,Minor,24,48.96
+NC-00317,2024-10-09,D01,Connector crimp defect,Assembly,supplier,S04,Minor,9,1573.7
+NC-00318,2024-10-10,D03,Solder joint defect,Electronics,internal,,Minor,18,272.07
+NC-00319,2024-10-10,D01,Connector crimp defect,Assembly,supplier,S04,Minor,22,105.26
+NC-00320,2024-10-10,D11,Test fixture calibration overdue,Final test,internal,,Major,19,400.21
+NC-00321,2024-10-10,D03,Solder joint defect,Electronics,internal,,Critical,13,956.57
+NC-00322,2024-10-10,D03,Solder joint defect,Electronics,internal,,Minor,19,354.7
+NC-00323,2024-10-10,D01,Connector crimp defect,Assembly,supplier,S05,Minor,21,947.94
+NC-00324,2024-10-11,D03,Solder joint defect,Electronics,internal,,Major,20,2003.43
+NC-00325,2024-10-14,D03,Solder joint defect,Electronics,internal,,Minor,24,121.98
+NC-00326,2024-10-14,D01,Connector crimp defect,Assembly,supplier,S12,Major,17,430.88
+NC-00327,2024-10-14,D02,Dimensional out of tolerance,Machining,internal,,Minor,24,3368.16
+NC-00328,2024-10-15,D03,Solder joint defect,Electronics,internal,,Major,23,1480.04
+NC-00329,2024-10-15,D04,Seal leak at pressure test,Final test,internal,,Minor,19,444.68
+NC-00330,2024-10-15,D03,Solder joint defect,Electronics,internal,,Major,6,997.61
+NC-00331,2024-10-15,D05,Wrong or missing label,Packaging,internal,,Minor,9,110.54
+NC-00332,2024-10-16,D08,Firmware version mismatch,Final test,internal,,Minor,7,379.65
+NC-00333,2024-10-18,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Major,3,2101.21
+NC-00334,2024-10-18,D06,Device history record incomplete,Documentation,internal,,Minor,7,32.42
+NC-00335,2024-10-21,D09,Incoming material out of spec,Incoming inspection,supplier,S06,Minor,23,356.96
+NC-00336,2024-10-22,D02,Dimensional out of tolerance,Machining,internal,,Major,17,1847.13
+NC-00337,2024-10-22,D07,Cosmetic scratch,Assembly,internal,,Minor,19,86.44
+NC-00338,2024-10-22,D03,Solder joint defect,Electronics,internal,,Minor,1,572.75
+NC-00339,2024-10-22,D05,Wrong or missing label,Packaging,internal,,Minor,9,108.78
+NC-00340,2024-10-23,D01,Connector crimp defect,Assembly,supplier,S08,Major,21,1455.11
+NC-00341,2024-10-23,D07,Cosmetic scratch,Assembly,internal,,Minor,23,71.5
+NC-00342,2024-10-24,D04,Seal leak at pressure test,Final test,internal,,Minor,1,1336.18
+NC-00343,2024-10-25,D02,Dimensional out of tolerance,Machining,internal,,Minor,1,1191.43
+NC-00344,2024-10-25,D11,Test fixture calibration overdue,Final test,internal,,Major,16,1120.44
+NC-00345,2024-10-25,D09,Incoming material out of spec,Incoming inspection,supplier,S08,Minor,1,308.94
+NC-00346,2024-10-25,D07,Cosmetic scratch,Assembly,internal,,Minor,11,14.25
+NC-00347,2024-10-28,D01,Connector crimp defect,Assembly,supplier,S12,Minor,18,497.58
+NC-00348,2024-10-28,D10,Packaging damage in transit,Customer,customer,,Minor,10,202.65
+NC-00349,2024-10-28,D04,Seal leak at pressure test,Final test,internal,,Minor,22,2503.31
+NC-00350,2024-10-29,D02,Dimensional out of tolerance,Machining,internal,,Major,3,1888.04
+NC-00351,2024-10-30,D05,Wrong or missing label,Packaging,internal,,Minor,6,61.3
+NC-00352,2024-10-30,D06,Device history record incomplete,Documentation,internal,,Minor,3,111.41
+NC-00353,2024-10-30,D02,Dimensional out of tolerance,Machining,internal,,Major,20,105.81
+NC-00354,2024-10-30,D03,Solder joint defect,Electronics,internal,,Minor,18,592.96
+NC-00355,2024-10-30,D11,Test fixture calibration overdue,Final test,internal,,Minor,21,155.25
+NC-00356,2024-10-31,D05,Wrong or missing label,Packaging,internal,,Minor,18,220.96
+NC-00357,2024-11-01,D02,Dimensional out of tolerance,Machining,internal,,Minor,23,421.87
+NC-00358,2024-11-01,D04,Seal leak at pressure test,Final test,internal,,Minor,13,1799.09
+NC-00359,2024-11-01,D06,Device history record incomplete,Documentation,internal,,Minor,5,155.34
+NC-00360,2024-11-01,D06,Device history record incomplete,Documentation,internal,,Major,21,85.1
+NC-00361,2024-11-01,D03,Solder joint defect,Electronics,internal,,Major,19,1813.11
+NC-00362,2024-11-06,D10,Packaging damage in transit,Customer,customer,,Minor,17,162.52
+NC-00363,2024-11-06,D02,Dimensional out of tolerance,Machining,internal,,Minor,24,1844.72
+NC-00364,2024-11-12,D06,Device history record incomplete,Documentation,internal,,Minor,5,149.48
+NC-00365,2024-11-12,D10,Packaging damage in transit,Customer,customer,,Minor,6,592.99
+NC-00366,2024-11-12,D02,Dimensional out of tolerance,Machining,internal,,Minor,6,1340.45
+NC-00367,2024-11-13,D03,Solder joint defect,Electronics,internal,,Critical,11,2980.31
+NC-00368,2024-11-14,D03,Solder joint defect,Electronics,internal,,Minor,16,685.24
+NC-00369,2024-11-14,D01,Connector crimp defect,Assembly,supplier,S11,Major,23,1008.41
+NC-00370,2024-11-15,D04,Seal leak at pressure test,Final test,internal,,Minor,8,1268.26
+NC-00371,2024-11-15,D05,Wrong or missing label,Packaging,internal,,Minor,13,48.43
+NC-00372,2024-11-18,D05,Wrong or missing label,Packaging,internal,,Minor,22,127.87
+NC-00373,2024-11-19,D02,Dimensional out of tolerance,Machining,internal,,Minor,23,2408.06
+NC-00374,2024-11-19,D03,Solder joint defect,Electronics,internal,,Minor,2,206.95
+NC-00375,2024-11-21,D05,Wrong or missing label,Packaging,internal,,Major,1,751.52
+NC-00376,2024-11-21,D02,Dimensional out of tolerance,Machining,internal,,Minor,2,737.31
+NC-00377,2024-11-21,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Minor,11,671.28
+NC-00378,2024-11-21,D06,Device history record incomplete,Documentation,internal,,Minor,5,108.7
+NC-00379,2024-11-22,D01,Connector crimp defect,Assembly,supplier,S11,Minor,24,385.99
+NC-00380,2024-11-22,D07,Cosmetic scratch,Assembly,internal,,Major,15,214.44
+NC-00381,2024-11-22,D04,Seal leak at pressure test,Final test,internal,,Minor,22,432.04
+NC-00382,2024-11-22,D02,Dimensional out of tolerance,Machining,internal,,Major,7,363.72
+NC-00383,2024-11-27,D07,Cosmetic scratch,Assembly,internal,,Minor,12,234.25
+NC-00384,2024-11-29,D02,Dimensional out of tolerance,Machining,internal,,Minor,5,688.73
+NC-00385,2024-11-29,D03,Solder joint defect,Electronics,internal,,Minor,21,286.78
+NC-00386,2024-12-02,D07,Cosmetic scratch,Assembly,internal,,Minor,22,21.55
+NC-00387,2024-12-02,D03,Solder joint defect,Electronics,internal,,Major,17,1546.31
+NC-00388,2024-12-03,D07,Cosmetic scratch,Assembly,internal,,Minor,10,89.54
+NC-00389,2024-12-04,D01,Connector crimp defect,Assembly,supplier,S05,Minor,15,215.89
+NC-00390,2024-12-06,D08,Firmware version mismatch,Final test,internal,,Major,10,976.83
+NC-00391,2024-12-06,D02,Dimensional out of tolerance,Machining,internal,,Minor,24,220.82
+NC-00392,2024-12-09,D03,Solder joint defect,Electronics,internal,,Minor,5,37.84
+NC-00393,2024-12-09,D04,Seal leak at pressure test,Final test,internal,,Minor,6,935.73
+NC-00394,2024-12-10,D06,Device history record incomplete,Documentation,internal,,Major,15,65.96
+NC-00395,2024-12-10,D02,Dimensional out of tolerance,Machining,internal,,Minor,10,1431.66
+NC-00396,2024-12-11,D02,Dimensional out of tolerance,Machining,internal,,Minor,20,676.08
+NC-00397,2024-12-11,D07,Cosmetic scratch,Assembly,internal,,Minor,11,22.75
+NC-00398,2024-12-11,D06,Device history record incomplete,Documentation,internal,,Major,3,345.39
+NC-00399,2024-12-13,D06,Device history record incomplete,Documentation,internal,,Minor,23,161.38
+NC-00400,2024-12-13,D01,Connector crimp defect,Assembly,supplier,S11,Minor,6,1564.05
+NC-00401,2024-12-16,D01,Connector crimp defect,Assembly,supplier,S01,Minor,15,274.5
+NC-00402,2024-12-16,D06,Device history record incomplete,Documentation,internal,,Minor,5,116.77
+NC-00403,2024-12-18,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Minor,3,902.54
+NC-00404,2024-12-19,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,24,941.86
+NC-00405,2024-12-20,D05,Wrong or missing label,Packaging,internal,,Minor,6,112.33
+NC-00406,2024-12-23,D04,Seal leak at pressure test,Final test,internal,,Minor,21,346.06
+NC-00407,2024-12-24,D08,Firmware version mismatch,Final test,internal,,Minor,24,180.3
+NC-00408,2024-12-24,D04,Seal leak at pressure test,Final test,internal,,Minor,16,1745.3
+NC-00409,2024-12-25,D05,Wrong or missing label,Packaging,internal,,Critical,11,1347.6
+NC-00410,2024-12-25,D06,Device history record incomplete,Documentation,internal,,Minor,5,5.41
+NC-00411,2024-12-26,D01,Connector crimp defect,Assembly,supplier,S07,Minor,17,966.53
+NC-00412,2024-12-27,D10,Packaging damage in transit,Customer,customer,,Minor,19,332.2
+NC-00413,2024-12-30,D01,Connector crimp defect,Assembly,supplier,S08,Minor,8,518.81
+NC-00414,2025-01-01,D07,Cosmetic scratch,Assembly,internal,,Minor,8,160.79
+NC-00415,2025-01-01,D03,Solder joint defect,Electronics,internal,,Minor,17,363.13
+NC-00416,2025-01-03,D09,Incoming material out of spec,Incoming inspection,supplier,S07,Major,1,312.18
+NC-00417,2025-01-03,D05,Wrong or missing label,Packaging,internal,,Minor,14,68.22
+NC-00418,2025-01-03,D06,Device history record incomplete,Documentation,internal,,Minor,22,146.15
+NC-00419,2025-01-07,D06,Device history record incomplete,Documentation,internal,,Minor,4,113.84
+NC-00420,2025-01-08,D01,Connector crimp defect,Assembly,supplier,S02,Minor,3,2070.93
+NC-00421,2025-01-08,D02,Dimensional out of tolerance,Machining,internal,,Major,16,3542.08
+NC-00422,2025-01-09,D04,Seal leak at pressure test,Final test,internal,,Minor,24,2134.94
+NC-00423,2025-01-09,D01,Connector crimp defect,Assembly,supplier,S12,Minor,19,750.35
+NC-00424,2025-01-10,D03,Solder joint defect,Electronics,internal,,Major,6,1464.48
+NC-00425,2025-01-10,D05,Wrong or missing label,Packaging,internal,,Minor,6,39.04
+NC-00426,2025-01-10,D03,Solder joint defect,Electronics,internal,,Minor,12,609.4
+NC-00427,2025-01-13,D02,Dimensional out of tolerance,Machining,internal,,Minor,17,93.54
+NC-00428,2025-01-13,D07,Cosmetic scratch,Assembly,internal,,Minor,19,56.19
+NC-00429,2025-01-14,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,1,410.5
+NC-00430,2025-01-14,D10,Packaging damage in transit,Customer,customer,,Minor,8,35.96
+NC-00431,2025-01-14,D02,Dimensional out of tolerance,Machining,internal,,Minor,7,233.52
+NC-00432,2025-01-14,D07,Cosmetic scratch,Assembly,internal,,Minor,3,53.56
+NC-00433,2025-01-15,D05,Wrong or missing label,Packaging,internal,,Minor,24,248.93
+NC-00434,2025-01-16,D05,Wrong or missing label,Packaging,internal,,Minor,7,89.02
+NC-00435,2025-01-17,D07,Cosmetic scratch,Assembly,internal,,Major,22,214.93
+NC-00436,2025-01-17,D02,Dimensional out of tolerance,Machining,internal,,Minor,1,974.28
+NC-00437,2025-01-17,D02,Dimensional out of tolerance,Machining,internal,,Major,22,1484.97
+NC-00438,2025-01-21,D04,Seal leak at pressure test,Final test,internal,,Major,21,1347.9
+NC-00439,2025-01-21,D01,Connector crimp defect,Assembly,supplier,S06,Minor,24,488.75
+NC-00440,2025-01-21,D03,Solder joint defect,Electronics,internal,,Minor,7,455.85
+NC-00441,2025-01-23,D11,Test fixture calibration overdue,Final test,internal,,Major,9,778.72
+NC-00442,2025-01-23,D02,Dimensional out of tolerance,Machining,internal,,Major,13,1596.24
+NC-00443,2025-01-24,D01,Connector crimp defect,Assembly,supplier,S06,Minor,1,338.25
+NC-00444,2025-01-24,D04,Seal leak at pressure test,Final test,internal,,Minor,7,4225.58
+NC-00445,2025-01-24,D06,Device history record incomplete,Documentation,internal,,Minor,22,107.72
+NC-00446,2025-01-27,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Minor,10,1703.22
+NC-00447,2025-01-28,D02,Dimensional out of tolerance,Machining,internal,,Major,23,2326.92
+NC-00448,2025-01-28,D03,Solder joint defect,Electronics,internal,,Critical,7,3554.04
+NC-00449,2025-01-29,D07,Cosmetic scratch,Assembly,internal,,Major,15,314.7
+NC-00450,2025-01-31,D01,Connector crimp defect,Assembly,supplier,S03,Minor,6,940.26
+NC-00451,2025-01-31,D10,Packaging damage in transit,Customer,customer,,Minor,3,160.31
+NC-00452,2025-02-03,D04,Seal leak at pressure test,Final test,internal,,Minor,6,1536.85
+NC-00453,2025-02-03,D09,Incoming material out of spec,Incoming inspection,supplier,S10,Minor,7,417.8
+NC-00454,2025-02-03,D02,Dimensional out of tolerance,Machining,internal,,Major,17,1845.06
+NC-00455,2025-02-04,D06,Device history record incomplete,Documentation,internal,,Minor,10,78.58
+NC-00456,2025-02-04,D07,Cosmetic scratch,Assembly,internal,,Major,24,52.33
+NC-00457,2025-02-04,D04,Seal leak at pressure test,Final test,internal,,Minor,16,2135.64
+NC-00458,2025-02-04,D05,Wrong or missing label,Packaging,internal,,Minor,22,115.17
+NC-00459,2025-02-05,D02,Dimensional out of tolerance,Machining,internal,,Minor,18,514.34
+NC-00460,2025-02-06,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Minor,2,426.0
+NC-00461,2025-02-06,D07,Cosmetic scratch,Assembly,internal,,Minor,5,112.78
+NC-00462,2025-02-06,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,2,604.67
+NC-00463,2025-02-07,D03,Solder joint defect,Electronics,internal,,Minor,18,403.92
+NC-00464,2025-02-11,D05,Wrong or missing label,Packaging,internal,,Major,12,604.11
+NC-00465,2025-02-11,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Minor,1,1427.6
+NC-00466,2025-02-11,D04,Seal leak at pressure test,Final test,internal,,Minor,7,1636.86
+NC-00467,2025-02-11,D03,Solder joint defect,Electronics,internal,,Minor,12,404.77
+NC-00468,2025-02-12,D07,Cosmetic scratch,Assembly,internal,,Major,7,29.44
+NC-00469,2025-02-12,D03,Solder joint defect,Electronics,internal,,Major,10,2234.16
+NC-00470,2025-02-13,D04,Seal leak at pressure test,Final test,internal,,Minor,7,1368.99
+NC-00471,2025-02-13,D11,Test fixture calibration overdue,Final test,internal,,Minor,23,217.35
+NC-00472,2025-02-14,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Minor,6,123.91
+NC-00473,2025-02-18,D02,Dimensional out of tolerance,Machining,internal,,Minor,12,448.24
+NC-00474,2025-02-18,D07,Cosmetic scratch,Assembly,internal,,Minor,4,14.27
+NC-00475,2025-02-20,D02,Dimensional out of tolerance,Machining,internal,,Major,18,238.86
+NC-00476,2025-02-20,D03,Solder joint defect,Electronics,internal,,Minor,20,1192.28
+NC-00477,2025-02-20,D08,Firmware version mismatch,Final test,internal,,Major,15,656.91
+NC-00478,2025-02-20,D01,Connector crimp defect,Assembly,supplier,S08,Minor,21,474.86
+NC-00479,2025-02-21,D06,Device history record incomplete,Documentation,internal,,Major,5,91.94
+NC-00480,2025-02-21,D07,Cosmetic scratch,Assembly,internal,,Minor,4,21.03
+NC-00481,2025-02-24,D09,Incoming material out of spec,Incoming inspection,supplier,S02,Minor,15,279.75
+NC-00482,2025-02-24,D09,Incoming material out of spec,Incoming inspection,supplier,S11,Critical,21,2505.92
+NC-00483,2025-02-24,D07,Cosmetic scratch,Assembly,internal,,Critical,24,273.11
+NC-00484,2025-02-26,D05,Wrong or missing label,Packaging,internal,,Minor,24,132.44
+NC-00485,2025-02-26,D05,Wrong or missing label,Packaging,internal,,Major,3,142.28
+NC-00486,2025-02-26,D03,Solder joint defect,Electronics,internal,,Minor,17,518.27
+NC-00487,2025-02-27,D06,Device history record incomplete,Documentation,internal,,Minor,17,79.13
+NC-00488,2025-02-27,D02,Dimensional out of tolerance,Machining,internal,,Major,7,2588.66
+NC-00489,2025-02-28,D10,Packaging damage in transit,Customer,customer,,Major,7,144.18
+NC-00490,2025-02-28,D03,Solder joint defect,Electronics,internal,,Minor,23,600.78
+NC-00491,2025-02-28,D07,Cosmetic scratch,Assembly,internal,,Minor,22,73.52
+NC-00492,2025-02-28,D05,Wrong or missing label,Packaging,internal,,Major,5,316.08
+NC-00493,2025-03-03,D01,Connector crimp defect,Assembly,supplier,S05,Major,19,2396.9
+NC-00494,2025-03-03,D01,Connector crimp defect,Assembly,supplier,S12,Minor,8,1282.37
+NC-00495,2025-03-04,D07,Cosmetic scratch,Assembly,internal,,Minor,17,117.85
+NC-00496,2025-03-05,D01,Connector crimp defect,Assembly,supplier,S02,Critical,14,916.8
+NC-00497,2025-03-05,D09,Incoming material out of spec,Incoming inspection,supplier,S03,Minor,15,1465.52
+NC-00498,2025-03-05,D02,Dimensional out of tolerance,Machining,internal,,Minor,1,494.54
+NC-00499,2025-03-07,D05,Wrong or missing label,Packaging,internal,,Minor,20,441.32
+NC-00500,2025-03-07,D03,Solder joint defect,Electronics,internal,,Minor,21,1133.94
+NC-00501,2025-03-10,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Minor,3,843.78
+NC-00502,2025-03-10,D10,Packaging damage in transit,Customer,customer,,Minor,10,573.55
+NC-00503,2025-03-12,D06,Device history record incomplete,Documentation,internal,,Minor,12,64.05
+NC-00504,2025-03-14,D03,Solder joint defect,Electronics,internal,,Minor,6,38.97
+NC-00505,2025-03-17,D03,Solder joint defect,Electronics,internal,,Minor,13,337.36
+NC-00506,2025-03-17,D07,Cosmetic scratch,Assembly,internal,,Minor,4,46.2
+NC-00507,2025-03-17,D10,Packaging damage in transit,Customer,customer,,Minor,2,263.61
+NC-00508,2025-03-18,D02,Dimensional out of tolerance,Machining,internal,,Major,8,2067.62
+NC-00509,2025-03-18,D05,Wrong or missing label,Packaging,internal,,Minor,13,94.94
+NC-00510,2025-03-19,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Minor,6,876.27
+NC-00511,2025-03-20,D10,Packaging damage in transit,Customer,customer,,Minor,11,271.75
+NC-00512,2025-03-21,D01,Connector crimp defect,Assembly,supplier,S03,Minor,23,829.93
+NC-00513,2025-03-24,D07,Cosmetic scratch,Assembly,internal,,Minor,22,60.87
+NC-00514,2025-03-24,D10,Packaging damage in transit,Customer,customer,,Critical,4,741.34
+NC-00515,2025-03-24,D02,Dimensional out of tolerance,Machining,internal,,Minor,9,454.19
+NC-00516,2025-03-24,D06,Device history record incomplete,Documentation,internal,,Major,10,87.84
+NC-00517,2025-03-25,D06,Device history record incomplete,Documentation,internal,,Minor,3,78.04
+NC-00518,2025-03-26,D02,Dimensional out of tolerance,Machining,internal,,Minor,21,1499.86
+NC-00519,2025-03-26,D06,Device history record incomplete,Documentation,internal,,Minor,11,156.03
+NC-00520,2025-03-26,D06,Device history record incomplete,Documentation,internal,,Major,24,56.3
+NC-00521,2025-03-27,D03,Solder joint defect,Electronics,internal,,Minor,3,40.69
+NC-00522,2025-03-27,D03,Solder joint defect,Electronics,internal,,Minor,20,304.87
+NC-00523,2025-03-28,D07,Cosmetic scratch,Assembly,internal,,Major,16,98.32
+NC-00524,2025-03-28,D06,Device history record incomplete,Documentation,internal,,Major,24,148.75
+NC-00525,2025-03-28,D11,Test fixture calibration overdue,Final test,internal,,Minor,24,318.95
+NC-00526,2025-03-28,D04,Seal leak at pressure test,Final test,internal,,Minor,2,407.9
+NC-00527,2025-03-31,D03,Solder joint defect,Electronics,internal,,Minor,12,222.87
+NC-00528,2025-04-01,D03,Solder joint defect,Electronics,internal,,Minor,22,1829.99
+NC-00529,2025-04-02,D03,Solder joint defect,Electronics,internal,,Minor,1,319.84
+NC-00530,2025-04-02,D05,Wrong or missing label,Packaging,internal,,Minor,10,88.86
+NC-00531,2025-04-03,D08,Firmware version mismatch,Final test,internal,,Minor,18,74.42
+NC-00532,2025-04-03,D11,Test fixture calibration overdue,Final test,internal,,Major,10,134.1
+NC-00533,2025-04-03,D07,Cosmetic scratch,Assembly,internal,,Minor,10,27.53
+NC-00534,2025-04-07,D03,Solder joint defect,Electronics,internal,,Minor,14,254.26
+NC-00535,2025-04-08,D01,Connector crimp defect,Assembly,supplier,S09,Major,9,638.5
+NC-00536,2025-04-09,D01,Connector crimp defect,Assembly,supplier,S08,Minor,4,1123.41
+NC-00537,2025-04-09,D03,Solder joint defect,Electronics,internal,,Minor,8,933.86
+NC-00538,2025-04-10,D11,Test fixture calibration overdue,Final test,internal,,Minor,8,200.6
+NC-00539,2025-04-15,D03,Solder joint defect,Electronics,internal,,Minor,7,450.56
+NC-00540,2025-04-15,D10,Packaging damage in transit,Customer,customer,,Minor,11,49.9
+NC-00541,2025-04-15,D03,Solder joint defect,Electronics,internal,,Minor,16,90.26
+NC-00542,2025-04-15,D02,Dimensional out of tolerance,Machining,internal,,Major,10,4314.87
+NC-00543,2025-04-16,D11,Test fixture calibration overdue,Final test,internal,,Minor,21,286.26
+NC-00544,2025-04-16,D05,Wrong or missing label,Packaging,internal,,Minor,15,89.63
+NC-00545,2025-04-17,D02,Dimensional out of tolerance,Machining,internal,,Minor,5,219.59
+NC-00546,2025-04-18,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,10,182.29
+NC-00547,2025-04-18,D07,Cosmetic scratch,Assembly,internal,,Minor,5,70.02
+NC-00548,2025-04-18,D11,Test fixture calibration overdue,Final test,internal,,Minor,19,111.06
+NC-00549,2025-04-18,D04,Seal leak at pressure test,Final test,internal,,Minor,1,2931.07
+NC-00550,2025-04-21,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Major,12,2215.49
+NC-00551,2025-04-21,D03,Solder joint defect,Electronics,internal,,Minor,17,171.61
+NC-00552,2025-04-23,D03,Solder joint defect,Electronics,internal,,Minor,9,291.76
+NC-00553,2025-04-23,D02,Dimensional out of tolerance,Machining,internal,,Minor,21,983.74
+NC-00554,2025-04-24,D04,Seal leak at pressure test,Final test,internal,,Minor,17,250.14
+NC-00555,2025-04-24,D02,Dimensional out of tolerance,Machining,internal,,Minor,7,976.26
+NC-00556,2025-04-25,D08,Firmware version mismatch,Final test,internal,,Minor,9,369.55
+NC-00557,2025-04-25,D04,Seal leak at pressure test,Final test,internal,,Minor,7,3520.81
+NC-00558,2025-04-28,D01,Connector crimp defect,Assembly,supplier,S08,Minor,21,1089.23
+NC-00559,2025-04-28,D01,Connector crimp defect,Assembly,supplier,S12,Minor,14,912.46
+NC-00560,2025-04-29,D01,Connector crimp defect,Assembly,supplier,S02,Minor,2,450.8
+NC-00561,2025-04-30,D05,Wrong or missing label,Packaging,internal,,Minor,7,85.52
+NC-00562,2025-04-30,D06,Device history record incomplete,Documentation,internal,,Minor,22,98.88
+NC-00563,2025-05-02,D09,Incoming material out of spec,Incoming inspection,supplier,S06,Minor,7,1278.8
+NC-00564,2025-05-05,D02,Dimensional out of tolerance,Machining,internal,,Minor,16,678.33
+NC-00565,2025-05-09,D06,Device history record incomplete,Documentation,internal,,Major,16,186.53
+NC-00566,2025-05-09,D05,Wrong or missing label,Packaging,internal,,Critical,15,336.04
+NC-00567,2025-05-12,D01,Connector crimp defect,Assembly,supplier,S12,Major,23,2601.19
+NC-00568,2025-05-14,D05,Wrong or missing label,Packaging,internal,,Minor,13,23.09
+NC-00569,2025-05-15,D03,Solder joint defect,Electronics,internal,,Minor,1,451.36
+NC-00570,2025-05-16,D02,Dimensional out of tolerance,Machining,internal,,Minor,3,102.69
+NC-00571,2025-05-19,D01,Connector crimp defect,Assembly,supplier,S09,Major,1,4052.38
+NC-00572,2025-05-19,D07,Cosmetic scratch,Assembly,internal,,Major,6,128.66
+NC-00573,2025-05-20,D06,Device history record incomplete,Documentation,internal,,Major,6,149.26
+NC-00574,2025-05-22,D07,Cosmetic scratch,Assembly,internal,,Major,3,100.67
+NC-00575,2025-05-22,D07,Cosmetic scratch,Assembly,internal,,Minor,12,83.24
+NC-00576,2025-05-23,D05,Wrong or missing label,Packaging,internal,,Minor,5,119.06
+NC-00577,2025-05-23,D10,Packaging damage in transit,Customer,customer,,Major,15,1267.14
+NC-00578,2025-05-26,D03,Solder joint defect,Electronics,internal,,Minor,3,566.65
+NC-00579,2025-05-26,D02,Dimensional out of tolerance,Machining,internal,,Minor,14,226.72
+NC-00580,2025-05-27,D05,Wrong or missing label,Packaging,internal,,Minor,22,87.98
+NC-00581,2025-05-27,D08,Firmware version mismatch,Final test,internal,,Minor,17,111.11
+NC-00582,2025-05-28,D07,Cosmetic scratch,Assembly,internal,,Minor,13,141.03
+NC-00583,2025-05-28,D02,Dimensional out of tolerance,Machining,internal,,Major,12,3117.95
+NC-00584,2025-05-29,D02,Dimensional out of tolerance,Machining,internal,,Minor,10,680.01
+NC-00585,2025-05-29,D05,Wrong or missing label,Packaging,internal,,Major,20,299.43
+NC-00586,2025-05-30,D02,Dimensional out of tolerance,Machining,internal,,Minor,15,1263.84
+NC-00587,2025-05-30,D07,Cosmetic scratch,Assembly,internal,,Minor,7,60.89
+NC-00588,2025-06-02,D05,Wrong or missing label,Packaging,internal,,Major,2,500.58
+NC-00589,2025-06-02,D01,Connector crimp defect,Assembly,supplier,S07,Minor,20,1107.44
+NC-00590,2025-06-03,D02,Dimensional out of tolerance,Machining,internal,,Minor,18,640.9
+NC-00591,2025-06-03,D06,Device history record incomplete,Documentation,internal,,Minor,20,98.17
+NC-00592,2025-06-03,D02,Dimensional out of tolerance,Machining,internal,,Minor,14,327.77
+NC-00593,2025-06-04,D01,Connector crimp defect,Assembly,supplier,S06,Minor,5,374.52
+NC-00594,2025-06-04,D11,Test fixture calibration overdue,Final test,internal,,Minor,22,168.9
+NC-00595,2025-06-04,D01,Connector crimp defect,Assembly,supplier,S07,Minor,18,1170.72
+NC-00596,2025-06-05,D01,Connector crimp defect,Assembly,supplier,S11,Minor,6,825.11
+NC-00597,2025-06-05,D03,Solder joint defect,Electronics,internal,,Minor,17,494.34
+NC-00598,2025-06-06,D04,Seal leak at pressure test,Final test,internal,,Minor,8,1019.18
+NC-00599,2025-06-06,D03,Solder joint defect,Electronics,internal,,Major,20,812.89
+NC-00600,2025-06-08,D01,Connector crimp defect,Assembly,supplier,S07,Major,18,4744.23
+NC-00601,2025-06-09,D02,Dimensional out of tolerance,Machining,internal,,Minor,1,448.82
+NC-00602,2025-06-09,D02,Dimensional out of tolerance,Machining,internal,,Major,21,1120.91
+NC-00603,2025-06-09,D01,Connector crimp defect,Assembly,supplier,S07,Minor,18,1055.1
+NC-00604,2025-06-09,D01,Connector crimp defect,Assembly,supplier,S07,Minor,16,1192.46
+NC-00605,2025-06-10,D01,Connector crimp defect,Assembly,supplier,S07,Major,19,1413.41
+NC-00606,2025-06-11,D03,Solder joint defect,Electronics,internal,,Major,11,376.5
+NC-00607,2025-06-11,D01,Connector crimp defect,Assembly,supplier,S07,Major,1,1926.78
+NC-00608,2025-06-11,D01,Connector crimp defect,Assembly,supplier,S07,Minor,9,109.51
+NC-00609,2025-06-11,D01,Connector crimp defect,Assembly,supplier,S07,Major,20,5628.59
+NC-00610,2025-06-11,D01,Connector crimp defect,Assembly,supplier,S07,Major,24,809.05
+NC-00611,2025-06-13,D07,Cosmetic scratch,Assembly,internal,,Minor,7,72.85
+NC-00612,2025-06-13,D05,Wrong or missing label,Packaging,internal,,Minor,14,190.76
+NC-00613,2025-06-14,D01,Connector crimp defect,Assembly,supplier,S07,Minor,20,758.31
+NC-00614,2025-06-14,D01,Connector crimp defect,Assembly,supplier,S07,Minor,7,137.7
+NC-00615,2025-06-14,D01,Connector crimp defect,Assembly,supplier,S07,Critical,23,3697.24
+NC-00616,2025-06-14,D01,Connector crimp defect,Assembly,supplier,S07,Major,1,1568.7
+NC-00617,2025-06-16,D03,Solder joint defect,Electronics,internal,,Minor,14,473.89
+NC-00618,2025-06-16,D07,Cosmetic scratch,Assembly,internal,,Minor,2,89.41
+NC-00619,2025-06-16,D05,Wrong or missing label,Packaging,internal,,Minor,9,144.15
+NC-00620,2025-06-16,D06,Device history record incomplete,Documentation,internal,,Minor,23,8.16
+NC-00621,2025-06-16,D03,Solder joint defect,Electronics,internal,,Minor,22,206.38
+NC-00622,2025-06-16,D01,Connector crimp defect,Assembly,supplier,S07,Major,6,561.88
+NC-00623,2025-06-18,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Minor,15,632.55
+NC-00624,2025-06-18,D01,Connector crimp defect,Assembly,supplier,S07,Minor,11,190.34
+NC-00625,2025-06-19,D02,Dimensional out of tolerance,Machining,internal,,Minor,18,145.5
+NC-00626,2025-06-19,D01,Connector crimp defect,Assembly,supplier,S07,Minor,8,1438.21
+NC-00627,2025-06-20,D06,Device history record incomplete,Documentation,internal,,Minor,15,110.56
+NC-00628,2025-06-20,D01,Connector crimp defect,Assembly,supplier,S07,Minor,5,951.72
+NC-00629,2025-06-23,D05,Wrong or missing label,Packaging,internal,,Minor,2,368.45
+NC-00630,2025-06-24,D04,Seal leak at pressure test,Final test,internal,,Minor,3,3551.21
+NC-00631,2025-06-24,D01,Connector crimp defect,Assembly,supplier,S07,Minor,7,1232.42
+NC-00632,2025-06-24,D01,Connector crimp defect,Assembly,supplier,S07,Minor,5,344.06
+NC-00633,2025-06-25,D05,Wrong or missing label,Packaging,internal,,Minor,1,220.36
+NC-00634,2025-06-25,D03,Solder joint defect,Electronics,internal,,Minor,2,476.47
+NC-00635,2025-06-25,D07,Cosmetic scratch,Assembly,internal,,Major,15,243.74
+NC-00636,2025-06-25,D01,Connector crimp defect,Assembly,supplier,S07,Major,8,3647.67
+NC-00637,2025-06-26,D03,Solder joint defect,Electronics,internal,,Major,17,2374.13
+NC-00638,2025-06-27,D01,Connector crimp defect,Assembly,supplier,S07,Minor,1,562.46
+NC-00639,2025-06-28,D01,Connector crimp defect,Assembly,supplier,S07,Major,7,1357.77
+NC-00640,2025-06-29,D01,Connector crimp defect,Assembly,supplier,S07,Minor,7,563.5
+NC-00641,2025-06-30,D09,Incoming material out of spec,Incoming inspection,supplier,S01,Major,2,921.61
+NC-00642,2025-07-01,D08,Firmware version mismatch,Final test,internal,,Minor,23,171.43
+NC-00643,2025-07-01,D09,Incoming material out of spec,Incoming inspection,supplier,S03,Major,2,1562.51
+NC-00644,2025-07-02,D01,Connector crimp defect,Assembly,supplier,S07,Minor,5,1486.87
+NC-00645,2025-07-02,D01,Connector crimp defect,Assembly,supplier,S07,Major,17,1524.41
+NC-00646,2025-07-03,D01,Connector crimp defect,Assembly,supplier,S10,Minor,22,1441.39
+NC-00647,2025-07-04,D11,Test fixture calibration overdue,Final test,internal,,Minor,14,253.62
+NC-00648,2025-07-04,D01,Connector crimp defect,Assembly,supplier,S07,Major,22,2230.86
+NC-00649,2025-07-04,D01,Connector crimp defect,Assembly,supplier,S07,Minor,15,1082.14
+NC-00650,2025-07-07,D01,Connector crimp defect,Assembly,supplier,S07,Minor,12,333.51
+NC-00651,2025-07-08,D01,Connector crimp defect,Assembly,supplier,S06,Major,21,4541.79
+NC-00652,2025-07-09,D02,Dimensional out of tolerance,Machining,internal,,Minor,12,1112.98
+NC-00653,2025-07-09,D11,Test fixture calibration overdue,Final test,internal,,Minor,20,61.25
+NC-00654,2025-07-09,D01,Connector crimp defect,Assembly,supplier,S07,Major,9,1105.65
+NC-00655,2025-07-09,D01,Connector crimp defect,Assembly,supplier,S07,Minor,4,796.87
+NC-00656,2025-07-10,D08,Firmware version mismatch,Final test,internal,,Minor,7,196.34
+NC-00657,2025-07-10,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Minor,17,325.41
+NC-00658,2025-07-10,D02,Dimensional out of tolerance,Machining,internal,,Minor,16,245.54
+NC-00659,2025-07-10,D01,Connector crimp defect,Assembly,supplier,S07,Major,13,502.58
+NC-00660,2025-07-11,D05,Wrong or missing label,Packaging,internal,,Minor,17,100.08
+NC-00661,2025-07-12,D01,Connector crimp defect,Assembly,supplier,S07,Major,8,5000.21
+NC-00662,2025-07-13,D01,Connector crimp defect,Assembly,supplier,S07,Major,10,2190.59
+NC-00663,2025-07-14,D03,Solder joint defect,Electronics,internal,,Minor,9,885.6
+NC-00664,2025-07-14,D05,Wrong or missing label,Packaging,internal,,Minor,17,228.35
+NC-00665,2025-07-14,D04,Seal leak at pressure test,Final test,internal,,Major,1,1875.08
+NC-00666,2025-07-14,D01,Connector crimp defect,Assembly,supplier,S07,Minor,3,903.65
+NC-00667,2025-07-15,D01,Connector crimp defect,Assembly,supplier,S07,Minor,13,2046.74
+NC-00668,2025-07-16,D09,Incoming material out of spec,Incoming inspection,supplier,S03,Minor,16,60.6
+NC-00669,2025-07-16,D05,Wrong or missing label,Packaging,internal,,Minor,20,17.17
+NC-00670,2025-07-17,D03,Solder joint defect,Electronics,internal,,Major,21,236.42
+NC-00671,2025-07-18,D04,Seal leak at pressure test,Final test,internal,,Minor,21,1352.37
+NC-00672,2025-07-18,D01,Connector crimp defect,Assembly,supplier,S07,Minor,12,132.79
+NC-00673,2025-07-18,D01,Connector crimp defect,Assembly,supplier,S07,Minor,22,123.72
+NC-00674,2025-07-21,D01,Connector crimp defect,Assembly,supplier,S01,Major,1,760.98
+NC-00675,2025-07-22,D02,Dimensional out of tolerance,Machining,internal,,Minor,9,237.14
+NC-00676,2025-07-22,D10,Packaging damage in transit,Customer,customer,,Major,5,449.12
+NC-00677,2025-07-23,D02,Dimensional out of tolerance,Machining,internal,,Minor,17,367.86
+NC-00678,2025-07-23,D03,Solder joint defect,Electronics,internal,,Major,20,562.78
+NC-00679,2025-07-24,D08,Firmware version mismatch,Final test,internal,,Major,1,942.27
+NC-00680,2025-07-24,D02,Dimensional out of tolerance,Machining,internal,,Minor,8,423.53
+NC-00681,2025-07-28,D08,Firmware version mismatch,Final test,internal,,Minor,16,391.45
+NC-00682,2025-07-28,D06,Device history record incomplete,Documentation,internal,,Minor,19,132.51
+NC-00683,2025-07-28,D06,Device history record incomplete,Documentation,internal,,Minor,16,154.86
+NC-00684,2025-07-28,D03,Solder joint defect,Electronics,internal,,Major,2,616.92
+NC-00685,2025-07-29,D03,Solder joint defect,Electronics,internal,,Minor,11,628.17
+NC-00686,2025-07-30,D09,Incoming material out of spec,Incoming inspection,supplier,S01,Major,1,2787.0
+NC-00687,2025-08-01,D03,Solder joint defect,Electronics,internal,,Minor,7,250.77
+NC-00688,2025-08-01,D04,Seal leak at pressure test,Final test,internal,,Major,5,1154.81
+NC-00689,2025-08-04,D06,Device history record incomplete,Documentation,internal,,Minor,9,42.78
+NC-00690,2025-08-04,D01,Connector crimp defect,Assembly,supplier,S09,Major,17,3762.59
+NC-00691,2025-08-05,D03,Solder joint defect,Electronics,internal,,Minor,16,486.88
+NC-00692,2025-08-06,D02,Dimensional out of tolerance,Machining,internal,,Major,5,299.12
+NC-00693,2025-08-06,D05,Wrong or missing label,Packaging,internal,,Minor,24,226.97
+NC-00694,2025-08-06,D02,Dimensional out of tolerance,Machining,internal,,Minor,5,1342.77
+NC-00695,2025-08-08,D01,Connector crimp defect,Assembly,supplier,S10,Major,24,445.06
+NC-00696,2025-08-11,D01,Connector crimp defect,Assembly,supplier,S02,Minor,12,1110.78
+NC-00697,2025-08-11,D06,Device history record incomplete,Documentation,internal,,Minor,24,107.3
+NC-00698,2025-08-12,D02,Dimensional out of tolerance,Machining,internal,,Minor,16,181.7
+NC-00699,2025-08-12,D10,Packaging damage in transit,Customer,customer,,Minor,5,314.26
+NC-00700,2025-08-13,D11,Test fixture calibration overdue,Final test,internal,,Minor,13,229.01
+NC-00701,2025-08-14,D03,Solder joint defect,Electronics,internal,,Minor,22,383.3
+NC-00702,2025-08-14,D05,Wrong or missing label,Packaging,internal,,Minor,21,105.45
+NC-00703,2025-08-15,D03,Solder joint defect,Electronics,internal,,Minor,15,938.52
+NC-00704,2025-08-15,D10,Packaging damage in transit,Customer,customer,,Minor,23,143.47
+NC-00705,2025-08-20,D07,Cosmetic scratch,Assembly,internal,,Minor,13,36.93
+NC-00706,2025-08-20,D05,Wrong or missing label,Packaging,internal,,Major,15,583.13
+NC-00707,2025-08-20,D01,Connector crimp defect,Assembly,supplier,S02,Major,11,616.9
+NC-00708,2025-08-21,D07,Cosmetic scratch,Assembly,internal,,Major,3,213.1
+NC-00709,2025-08-21,D03,Solder joint defect,Electronics,internal,,Minor,14,251.49
+NC-00710,2025-08-22,D10,Packaging damage in transit,Customer,customer,,Major,20,507.94
+NC-00711,2025-08-22,D06,Device history record incomplete,Documentation,internal,,Minor,21,9.84
+NC-00712,2025-08-22,D07,Cosmetic scratch,Assembly,internal,,Minor,16,40.4
+NC-00713,2025-08-25,D05,Wrong or missing label,Packaging,internal,,Minor,16,235.49
+NC-00714,2025-08-26,D10,Packaging damage in transit,Customer,customer,,Minor,10,153.47
+NC-00715,2025-08-26,D01,Connector crimp defect,Assembly,supplier,S11,Major,12,6474.6
+NC-00716,2025-08-28,D02,Dimensional out of tolerance,Machining,internal,,Major,24,1578.87
+NC-00717,2025-08-28,D02,Dimensional out of tolerance,Machining,internal,,Major,16,102.44
+NC-00718,2025-08-28,D09,Incoming material out of spec,Incoming inspection,supplier,S06,Major,8,1434.53
+NC-00719,2025-08-28,D06,Device history record incomplete,Documentation,internal,,Minor,22,58.92
+NC-00720,2025-08-29,D07,Cosmetic scratch,Assembly,internal,,Minor,16,27.07
+NC-00721,2025-09-01,D02,Dimensional out of tolerance,Machining,internal,,Minor,7,315.45
+NC-00722,2025-09-03,D09,Incoming material out of spec,Incoming inspection,supplier,S06,Major,10,1109.23
+NC-00723,2025-09-04,D07,Cosmetic scratch,Assembly,internal,,Minor,21,132.84
+NC-00724,2025-09-04,D01,Connector crimp defect,Assembly,supplier,S11,Minor,4,806.53
+NC-00725,2025-09-05,D02,Dimensional out of tolerance,Machining,internal,,Minor,15,811.32
+NC-00726,2025-09-08,D02,Dimensional out of tolerance,Machining,internal,,Minor,17,989.24
+NC-00727,2025-09-08,D11,Test fixture calibration overdue,Final test,internal,,Major,19,653.95
+NC-00728,2025-09-09,D04,Seal leak at pressure test,Final test,internal,,Minor,13,159.31
+NC-00729,2025-09-11,D05,Wrong or missing label,Packaging,internal,,Minor,20,13.08
+NC-00730,2025-09-11,D10,Packaging damage in transit,Customer,customer,,Minor,2,164.58
+NC-00731,2025-09-12,D06,Device history record incomplete,Documentation,internal,,Minor,20,120.75
+NC-00732,2025-09-12,D02,Dimensional out of tolerance,Machining,internal,,Minor,8,517.86
+NC-00733,2025-09-15,D03,Solder joint defect,Electronics,internal,,Minor,6,135.4
+NC-00734,2025-09-16,D05,Wrong or missing label,Packaging,internal,,Minor,17,51.38
+NC-00735,2025-09-16,D02,Dimensional out of tolerance,Machining,internal,,Major,1,941.75
+NC-00736,2025-09-17,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Minor,14,949.71
+NC-00737,2025-09-18,D07,Cosmetic scratch,Assembly,internal,,Minor,6,21.02
+NC-00738,2025-09-18,D07,Cosmetic scratch,Assembly,internal,,Major,8,107.1
+NC-00739,2025-09-23,D06,Device history record incomplete,Documentation,internal,,Major,11,440.13
+NC-00740,2025-09-23,D02,Dimensional out of tolerance,Machining,internal,,Major,21,850.28
+NC-00741,2025-09-24,D08,Firmware version mismatch,Final test,internal,,Major,21,417.31
+NC-00742,2025-09-24,D06,Device history record incomplete,Documentation,internal,,Minor,4,192.81
+NC-00743,2025-09-25,D03,Solder joint defect,Electronics,internal,,Minor,11,960.61
+NC-00744,2025-09-25,D04,Seal leak at pressure test,Final test,internal,,Minor,19,4813.37
+NC-00745,2025-09-25,D09,Incoming material out of spec,Incoming inspection,supplier,S06,Major,8,1765.17
+NC-00746,2025-09-26,D08,Firmware version mismatch,Final test,internal,,Minor,24,451.14
+NC-00747,2025-09-26,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Critical,7,253.31
+NC-00748,2025-09-26,D10,Packaging damage in transit,Customer,customer,,Minor,21,382.32
+NC-00749,2025-09-29,D01,Connector crimp defect,Assembly,supplier,S03,Minor,18,1392.27
+NC-00750,2025-09-29,D01,Connector crimp defect,Assembly,supplier,S12,Minor,21,1143.98
+NC-00751,2025-09-29,D08,Firmware version mismatch,Final test,internal,,Minor,18,418.68
+NC-00752,2025-09-30,D10,Packaging damage in transit,Customer,customer,,Minor,24,283.31
+NC-00753,2025-09-30,D05,Wrong or missing label,Packaging,internal,,Minor,7,117.15
+NC-00754,2025-10-01,D10,Packaging damage in transit,Customer,customer,,Minor,17,173.01
+NC-00755,2025-10-01,D07,Cosmetic scratch,Assembly,internal,,Major,22,103.15
+NC-00756,2025-10-01,D01,Connector crimp defect,Assembly,supplier,S02,Minor,3,582.41
+NC-00757,2025-10-03,D03,Solder joint defect,Electronics,internal,,Minor,17,580.85
+NC-00758,2025-10-06,D03,Solder joint defect,Electronics,internal,,Major,23,2243.15
+NC-00759,2025-10-07,D03,Solder joint defect,Electronics,internal,,Minor,11,439.9
+NC-00760,2025-10-07,D07,Cosmetic scratch,Assembly,internal,,Major,16,13.49
+NC-00761,2025-10-08,D02,Dimensional out of tolerance,Machining,internal,,Minor,6,289.4
+NC-00762,2025-10-08,D03,Solder joint defect,Electronics,internal,,Minor,12,561.93
+NC-00763,2025-10-10,D10,Packaging damage in transit,Customer,customer,,Minor,3,635.97
+NC-00764,2025-10-13,D04,Seal leak at pressure test,Final test,internal,,Minor,14,1201.79
+NC-00765,2025-10-13,D05,Wrong or missing label,Packaging,internal,,Major,22,477.72
+NC-00766,2025-10-14,D02,Dimensional out of tolerance,Machining,internal,,Minor,24,437.6
+NC-00767,2025-10-14,D10,Packaging damage in transit,Customer,customer,,Minor,16,72.82
+NC-00768,2025-10-14,D05,Wrong or missing label,Packaging,internal,,Major,9,157.89
+NC-00769,2025-10-14,D09,Incoming material out of spec,Incoming inspection,supplier,S10,Major,22,523.32
+NC-00770,2025-10-15,D04,Seal leak at pressure test,Final test,internal,,Minor,19,1199.37
+NC-00771,2025-10-15,D08,Firmware version mismatch,Final test,internal,,Minor,12,261.57
+NC-00772,2025-10-16,D06,Device history record incomplete,Documentation,internal,,Critical,12,229.58
+NC-00773,2025-10-16,D01,Connector crimp defect,Assembly,supplier,S12,Minor,24,2417.54
+NC-00774,2025-10-17,D08,Firmware version mismatch,Final test,internal,,Minor,9,658.49
+NC-00775,2025-10-17,D06,Device history record incomplete,Documentation,internal,,Minor,6,37.66
+NC-00776,2025-10-22,D03,Solder joint defect,Electronics,internal,,Minor,13,778.64
+NC-00777,2025-10-22,D03,Solder joint defect,Electronics,internal,,Minor,14,782.83
+NC-00778,2025-10-22,D01,Connector crimp defect,Assembly,supplier,S01,Minor,12,658.66
+NC-00779,2025-10-22,D06,Device history record incomplete,Documentation,internal,,Major,8,167.98
+NC-00780,2025-10-23,D10,Packaging damage in transit,Customer,customer,,Major,4,580.55
+NC-00781,2025-10-23,D09,Incoming material out of spec,Incoming inspection,supplier,S05,Major,14,904.84
+NC-00782,2025-10-28,D05,Wrong or missing label,Packaging,internal,,Major,2,90.2
+NC-00783,2025-10-28,D09,Incoming material out of spec,Incoming inspection,supplier,S10,Major,14,1138.73
+NC-00784,2025-10-29,D08,Firmware version mismatch,Final test,internal,,Minor,1,40.68
+NC-00785,2025-10-29,D01,Connector crimp defect,Assembly,supplier,S04,Minor,21,1044.74
+NC-00786,2025-10-30,D03,Solder joint defect,Electronics,internal,,Minor,3,798.77
+NC-00787,2025-10-31,D09,Incoming material out of spec,Incoming inspection,supplier,S12,Minor,3,267.05
+NC-00788,2025-10-31,D06,Device history record incomplete,Documentation,internal,,Minor,16,234.48
+NC-00789,2025-10-31,D05,Wrong or missing label,Packaging,internal,,Minor,17,110.32
+NC-00790,2025-11-04,D06,Device history record incomplete,Documentation,internal,,Major,22,238.7
+NC-00791,2025-11-04,D09,Incoming material out of spec,Incoming inspection,supplier,S11,Minor,1,788.28
+NC-00792,2025-11-05,D08,Firmware version mismatch,Final test,internal,,Major,18,946.19
+NC-00793,2025-11-05,D03,Solder joint defect,Electronics,internal,,Critical,16,939.78
+NC-00794,2025-11-06,D03,Solder joint defect,Electronics,internal,,Minor,15,478.81
+NC-00795,2025-11-10,D08,Firmware version mismatch,Final test,internal,,Minor,3,259.64
+NC-00796,2025-11-10,D04,Seal leak at pressure test,Final test,internal,,Minor,20,1236.1
+NC-00797,2025-11-11,D02,Dimensional out of tolerance,Machining,internal,,Minor,7,526.23
+NC-00798,2025-11-13,D06,Device history record incomplete,Documentation,internal,,Major,5,496.12
+NC-00799,2025-11-14,D07,Cosmetic scratch,Assembly,internal,,Minor,20,105.88
+NC-00800,2025-11-14,D01,Connector crimp defect,Assembly,supplier,S06,Major,1,3414.7
+NC-00801,2025-11-14,D08,Firmware version mismatch,Final test,internal,,Minor,4,1282.69
+NC-00802,2025-11-17,D09,Incoming material out of spec,Incoming inspection,supplier,S09,Minor,13,1349.05
+NC-00803,2025-11-17,D10,Packaging damage in transit,Customer,customer,,Critical,6,1093.18
+NC-00804,2025-11-18,D07,Cosmetic scratch,Assembly,internal,,Minor,2,74.26
+NC-00805,2025-11-18,D08,Firmware version mismatch,Final test,internal,,Minor,1,484.07
+NC-00806,2025-11-24,D03,Solder joint defect,Electronics,internal,,Critical,3,1267.89
+NC-00807,2025-11-25,D02,Dimensional out of tolerance,Machining,internal,,Minor,20,532.3
+NC-00808,2025-11-25,D05,Wrong or missing label,Packaging,internal,,Minor,2,245.3
+NC-00809,2025-11-25,D03,Solder joint defect,Electronics,internal,,Major,22,265.16
+NC-00810,2025-11-26,D01,Connector crimp defect,Assembly,supplier,S09,Minor,2,1160.58
+NC-00811,2025-11-26,D01,Connector crimp defect,Assembly,supplier,S06,Critical,5,9794.27
+NC-00812,2025-11-26,D11,Test fixture calibration overdue,Final test,internal,,Minor,2,63.03
+NC-00813,2025-11-26,D01,Connector crimp defect,Assembly,supplier,S09,Minor,8,849.38
+NC-00814,2025-11-26,D09,Incoming material out of spec,Incoming inspection,supplier,S01,Minor,19,1269.2
+NC-00815,2025-11-27,D02,Dimensional out of tolerance,Machining,internal,,Major,15,2149.8
+NC-00816,2025-11-27,D03,Solder joint defect,Electronics,internal,,Minor,14,665.89
+NC-00817,2025-11-27,D03,Solder joint defect,Electronics,internal,,Major,8,331.55
+NC-00818,2025-11-27,D05,Wrong or missing label,Packaging,internal,,Major,23,319.84
+NC-00819,2025-11-27,D01,Connector crimp defect,Assembly,supplier,S08,Minor,5,665.47
+NC-00820,2025-11-28,D10,Packaging damage in transit,Customer,customer,,Minor,22,696.95
+NC-00821,2025-12-01,D07,Cosmetic scratch,Assembly,internal,,Major,23,64.85
+NC-00822,2025-12-02,D10,Packaging damage in transit,Customer,customer,,Minor,3,128.29
+NC-00823,2025-12-03,D08,Firmware version mismatch,Final test,internal,,Minor,17,746.16
+NC-00824,2025-12-04,D05,Wrong or missing label,Packaging,internal,,Minor,3,45.13
+NC-00825,2025-12-05,D09,Incoming material out of spec,Incoming inspection,supplier,S11,Minor,7,481.64
+NC-00826,2025-12-05,D04,Seal leak at pressure test,Final test,internal,,Minor,2,119.13
+NC-00827,2025-12-05,D05,Wrong or missing label,Packaging,internal,,Critical,7,1157.15
+NC-00828,2025-12-08,D03,Solder joint defect,Electronics,internal,,Minor,19,231.66
+NC-00829,2025-12-08,D04,Seal leak at pressure test,Final test,internal,,Minor,6,1117.37
+NC-00830,2025-12-08,D06,Device history record incomplete,Documentation,internal,,Critical,1,405.85
+NC-00831,2025-12-08,D09,Incoming material out of spec,Incoming inspection,supplier,S08,Major,7,1164.29
+NC-00832,2025-12-08,D05,Wrong or missing label,Packaging,internal,,Major,9,236.58
+NC-00833,2025-12-12,D10,Packaging damage in transit,Customer,customer,,Critical,8,462.71
+NC-00834,2025-12-15,D05,Wrong or missing label,Packaging,internal,,Minor,4,136.9
+NC-00835,2025-12-15,D04,Seal leak at pressure test,Final test,internal,,Minor,21,178.81
+NC-00836,2025-12-15,D11,Test fixture calibration overdue,Final test,internal,,Minor,13,235.04
+NC-00837,2025-12-16,D03,Solder joint defect,Electronics,internal,,Minor,11,785.15
+NC-00838,2025-12-17,D03,Solder joint defect,Electronics,internal,,Critical,13,1286.63
+NC-00839,2025-12-18,D04,Seal leak at pressure test,Final test,internal,,Minor,23,2364.78
+NC-00840,2025-12-18,D02,Dimensional out of tolerance,Machining,internal,,Minor,14,2697.18
+NC-00841,2025-12-19,D04,Seal leak at pressure test,Final test,internal,,Minor,11,1354.41
+NC-00842,2025-12-19,D10,Packaging damage in transit,Customer,customer,,Major,13,156.03
+NC-00843,2025-12-19,D01,Connector crimp defect,Assembly,supplier,S02,Minor,24,335.41
+NC-00844,2025-12-19,D07,Cosmetic scratch,Assembly,internal,,Minor,7,22.07
+NC-00845,2025-12-23,D08,Firmware version mismatch,Final test,internal,,Major,21,185.96
+NC-00846,2025-12-23,D02,Dimensional out of tolerance,Machining,internal,,Minor,14,695.67
+NC-00847,2025-12-23,D04,Seal leak at pressure test,Final test,internal,,Minor,9,1701.23
+NC-00848,2025-12-24,D07,Cosmetic scratch,Assembly,internal,,Minor,6,19.36
+NC-00849,2025-12-24,D04,Seal leak at pressure test,Final test,internal,,Major,13,819.2
+NC-00850,2025-12-26,D09,Incoming material out of spec,Incoming inspection,supplier,S04,Major,10,1541.89
+NC-00851,2025-12-30,D06,Device history record incomplete,Documentation,internal,,Minor,21,58.88
+NC-00852,2025-12-31,D02,Dimensional out of tolerance,Machining,internal,,Major,17,708.57
+NC-00853,2025-12-31,D10,Packaging damage in transit,Customer,customer,,Major,10,155.02
+NC-00854,2025-12-31,D03,Solder joint defect,Electronics,internal,,Minor,14,104.63
